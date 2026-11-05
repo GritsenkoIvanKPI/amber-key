@@ -1,0 +1,282 @@
+{
+  "domain": "https://amberkey.lv",
+  "languages": [
+    {
+      "code": "en",
+      "label": "EN",
+      "name": "English",
+      "locale": "en_GB",
+      "prefix": ""
+    },
+    {
+      "code": "ru",
+      "label": "RU",
+      "name": "Русский",
+      "locale": "ru_RU",
+      "prefix": "ru/"
+    },
+    {
+      "code": "lv",
+      "label": "LV",
+      "name": "Latviešu",
+      "locale": "lv_LV",
+      "prefix": "lv/"
+    }
+  ],
+  "published": [
+    "home"
+  ],
+  "onePageNav": [
+    {
+      "label": {
+        "en": "About us",
+        "ru": "О компании",
+        "lv": "Par mums"
+      },
+      "href": "#about"
+    },
+    {
+      "label": {
+        "en": "Services",
+        "ru": "Услуги",
+        "lv": "Pakalpojumi"
+      },
+      "href": "#services"
+    },
+    {
+      "label": {
+        "en": "How we work",
+        "ru": "Как мы работаем",
+        "lv": "Kā mēs strādājam"
+      },
+      "href": "#process"
+    },
+    {
+      "label": {
+        "en": "Contacts",
+        "ru": "Контакты",
+        "lv": "Kontakti"
+      },
+      "href": "#contacts"
+    }
+  ],
+  "nav": [
+    {
+      "id": "home"
+    },
+    {
+      "id": "work-visas"
+    },
+    {
+      "label": {
+        "en": "Residence permits",
+        "ru": "ВНЖ",
+        "lv": "Uzturēšanās atļaujas"
+      },
+      "children": [
+        "residence-permit-poland",
+        "residence-permit-latvia"
+      ]
+    },
+    {
+      "id": "citizenship-by-investment",
+      "short": {
+        "en": "Investment",
+        "ru": "Инвестиции",
+        "lv": "Investīcijas"
+      }
+    },
+    {
+      "label": {
+        "en": "Digital Nomad",
+        "ru": "Digital Nomad",
+        "lv": "Digital Nomad"
+      },
+      "children": [
+        "digital-nomad-spain",
+        "digital-nomad-croatia"
+      ]
+    }
+  ],
+  "contacts": {
+    "address": "Brīvības iela 144, Riga, LV-1012, Latvia",
+    "addressNote": {
+      "en": "Our office is moving to a new address soon.",
+      "ru": "В ближайшее время офис переезжает на новый адрес.",
+      "lv": "Drīzumā birojs pārcelsies uz jaunu adresi."
+    },
+    "phone": "+371 24202320",
+    "phoneHref": "+37124202320",
+    "email": "sia.amber.key@gmail.com",
+    "instagram": "sia.amber.key",
+    "messengers": {
+      "whatsapp": "https://wa.me/37124202320",
+      "viber": "viber://chat?number=%2B37124202320",
+      "telegram": "https://t.me/+37124202320"
+    }
+  },
+  "ui": {
+    "contact": {
+      "en": "Contact us",
+      "ru": "Связаться",
+      "lv": "Sazināties"
+    },
+    "menu": {
+      "en": "Menu",
+      "ru": "Меню",
+      "lv": "Izvēlne"
+    },
+    "close": {
+      "en": "Close",
+      "ru": "Закрыть",
+      "lv": "Aizvērt"
+    },
+    "language": {
+      "en": "Language",
+      "ru": "Язык",
+      "lv": "Valoda"
+    },
+    "skip": {
+      "en": "Skip to content",
+      "ru": "Перейти к содержанию",
+      "lv": "Pāriet uz saturu"
+    },
+    "learnMore": {
+      "en": "Learn more",
+      "ru": "Подробнее",
+      "lv": "Uzzināt vairāk"
+    },
+    "home": {
+      "en": "Home",
+      "ru": "Главная",
+      "lv": "Sākums"
+    },
+    "prev": {
+      "en": "Previous",
+      "ru": "Назад",
+      "lv": "Iepriekšējais"
+    },
+    "next": {
+      "en": "Next",
+      "ru": "Вперед",
+      "lv": "Nākamais"
+    },
+    "services": {
+      "en": "Services",
+      "ru": "Услуги",
+      "lv": "Pakalpojumi"
+    },
+    "company": {
+      "en": "Company",
+      "ru": "Компания",
+      "lv": "Uzņēmums"
+    },
+    "contactsTitle": {
+      "en": "Contacts",
+      "ru": "Контакты",
+      "lv": "Kontakti"
+    },
+    "office": {
+      "en": "Office",
+      "ru": "Офис",
+      "lv": "Birojs"
+    },
+    "phone": {
+      "en": "Phone & messengers",
+      "ru": "Телефон и мессенджеры",
+      "lv": "Tālrunis un ziņapmaiņa"
+    },
+    "email": {
+      "en": "Email",
+      "ru": "Электронная почта",
+      "lv": "E-pasts"
+    },
+    "instagram": {
+      "en": "Instagram",
+      "ru": "Instagram",
+      "lv": "Instagram"
+    },
+    "tagline": {
+      "en": "Global mobility & business advisory",
+      "ru": "Международная миграция и бизнес-консалтинг",
+      "lv": "Starptautiskā mobilitāte un biznesa konsultācijas"
+    },
+    "footerText": {
+      "en": "International consultancy for migration, business immigration, company registration and work visas in Europe. Consultations in English, Russian and Latvian.",
+      "ru": "Международный консалтинг в сфере миграции, бизнес-иммиграции, регистрации компаний и рабочих виз в Европе. Консультации на русском, английском и латышском языках.",
+      "lv": "Starptautiskas konsultācijas migrācijas, biznesa imigrācijas, uzņēmumu reģistrācijas un darba vīzu jautājumos Eiropā. Konsultācijas angļu, krievu un latviešu valodā."
+    },
+    "rights": {
+      "en": "All rights reserved.",
+      "ru": "Все права защищены.",
+      "lv": "Visas tiesības aizsargātas."
+    },
+    "legalNote": {
+      "en": "We work strictly within the legislation of each country.",
+      "ru": "Мы работаем исключительно в рамках действующего законодательства.",
+      "lv": "Mēs strādājam tikai spēkā esošo tiesību aktu ietvaros."
+    },
+    "form": {
+      "title": {
+        "en": "Book a consultation",
+        "ru": "Запишитесь на консультацию",
+        "lv": "Piesakieties konsultācijai"
+      },
+      "name": {
+        "en": "Your name",
+        "ru": "Ваше имя",
+        "lv": "Jūsu vārds"
+      },
+      "contact": {
+        "en": "Phone or email",
+        "ru": "Телефон или email",
+        "lv": "Tālrunis vai e-pasts"
+      },
+      "service": {
+        "en": "Service",
+        "ru": "Услуга",
+        "lv": "Pakalpojums"
+      },
+      "serviceAny": {
+        "en": "Not sure yet — need advice",
+        "ru": "Пока не знаю — нужна консультация",
+        "lv": "Vēl nezinu — nepieciešams padoms"
+      },
+      "message": {
+        "en": "Briefly describe your situation",
+        "ru": "Кратко опишите вашу ситуацию",
+        "lv": "Īsi aprakstiet savu situāciju"
+      },
+      "submit": {
+        "en": "Send request",
+        "ru": "Отправить заявку",
+        "lv": "Nosūtīt pieteikumu"
+      },
+      "consent": {
+        "en": "By sending the form you agree that we will use your details only to contact you about your request.",
+        "ru": "Отправляя форму, вы соглашаетесь, что мы используем ваши данные только для связи по вашему запросу.",
+        "lv": "Nosūtot formu, jūs piekrītat, ka jūsu datus izmantosim tikai saziņai par jūsu pieprasījumu."
+      },
+      "sent": {
+        "en": "Thank you! Your email app has opened with the request — just press send. Or call us directly.",
+        "ru": "Спасибо! Открылось почтовое приложение с вашей заявкой — осталось нажать «Отправить». Или позвоните нам напрямую.",
+        "lv": "Paldies! Atvērās e-pasta lietotne ar jūsu pieprasījumu — atliek nospiest «Sūtīt». Vai zvaniet mums tieši."
+      },
+      "subject": {
+        "en": "Consultation request — Amber Key website",
+        "ru": "Заявка на консультацию — сайт Amber Key",
+        "lv": "Konsultācijas pieprasījums — Amber Key vietne"
+      }
+    },
+    "write": {
+      "en": "Write to us",
+      "ru": "Написать нам",
+      "lv": "Rakstiet mums"
+    },
+    "map": {
+      "en": "Office on the map",
+      "ru": "Офис на карте",
+      "lv": "Birojs kartē"
+    }
+  }
+}

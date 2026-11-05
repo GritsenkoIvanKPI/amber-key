@@ -1,0 +1,270 @@
+{
+  "id": "digital-nomad-croatia",
+  "path": "digital-nomad-croatia/",
+  "nav": { "en": "Digital Nomad — Croatia", "ru": "Digital Nomad — Хорватия", "lv": "Digital Nomad — Horvātija" },
+  "seo": {
+    "title": {
+      "en": "Digital Nomad Residence in Croatia | Remote Work | Amber Key",
+      "ru": "Digital Nomad в Хорватии | Временное проживание | Amber Key",
+      "lv": "Digital Nomad uzturēšanās Horvātijā | Amber Key"
+    },
+    "description": {
+      "en": "Temporary stay for digital nomads in Croatia for remote workers. Full support with documents and the application. Over 8 years of international practice.",
+      "ru": "Временное пребывание Digital Nomad в Хорватии для удаленных специалистов. Сопровождение подготовки документов и подачи. Более 8 лет международной практики.",
+      "lv": "Digital Nomad uzturēšanās Horvātijā attālinātajiem speciālistiem. Pilns atbalsts dokumentiem un pieteikumam. Vairāk nekā 8 gadu starptautiskā pieredze."
+    },
+    "image": "hr-hero"
+  },
+  "blocks": [
+    {
+      "type": "hero",
+      "title": { "en": "Digital Nomad Residence in Croatia", "ru": "Digital Nomad в Хорватии", "lv": "Digital Nomad uzturēšanās Horvātijā" },
+      "lead": {
+        "en": "Live on the Adriatic coast legally while continuing to work remotely for a company registered outside Croatia.",
+        "ru": "Проживайте на Адриатическом побережье на законных основаниях и продолжайте удаленно работать на компанию, зарегистрированную за пределами Хорватии.",
+        "lv": "Dzīvojiet Adrijas jūras piekrastē likumīgi un turpiniet attālināti strādāt uzņēmumam, kas reģistrēts ārpus Horvātijas."
+      },
+      "image": "hr-hero",
+      "tags": [
+        { "label": { "en": "Remote work", "ru": "Удаленная работа", "lv": "Attālināts darbs" } },
+        { "label": { "en": "Stay up to 18 months", "ru": "Пребывание до 18 месяцев", "lv": "Uzturēšanās līdz 18 mēnešiem" } },
+        { "label": { "en": "EU and Schengen country", "ru": "Страна ЕС и Шенгена", "lv": "ES un Šengenas valsts" } },
+        { "label": { "en": "Family reunification", "ru": "Воссоединение семьи", "lv": "Ģimenes apvienošana" } }
+      ],
+      "cta": { "label": { "en": "Get a consultation", "ru": "Получить консультацию", "lv": "Saņemt konsultāciju" }, "href": "contact/" }
+    },
+    {
+      "type": "intro",
+      "chip": { "en": "About the programme", "ru": "О программе", "lv": "Par programmu" },
+      "text": {
+        "en": "Croatia grants digital nomads from outside the EU a **temporary stay of up to 18 months** for remote work through communication technology for a foreign employer or their own foreign company. Amber Key supports clients at every stage — from assessing eligibility to obtaining approval.",
+        "ru": "Хорватия предоставляет цифровым кочевникам из стран вне ЕС **временное пребывание сроком до 18 месяцев** для удаленной работы с использованием коммуникационных технологий на иностранного работодателя или собственную иностранную компанию. Amber Key сопровождает клиентов на всех этапах — от оценки соответствия требованиям до получения одобрения.",
+        "lv": "Horvātija piešķir digitālajiem nomadiem no valstīm ārpus ES **pagaidu uzturēšanos līdz 18 mēnešiem** attālinātam darbam ar sakaru tehnoloģiju palīdzību ārvalstu darba devējam vai savam ārvalstu uzņēmumam. Amber Key pavada klientus katrā posmā — no atbilstības izvērtēšanas līdz apstiprinājuma saņemšanai."
+      },
+      "label": { "en": "Croatia at a glance", "ru": "Хорватия в цифрах", "lv": "Horvātija skaitļos" },
+      "stats": [
+        { "value": "8+", "label": { "en": "Years of Amber Key practice", "ru": "Лет практики Amber Key", "lv": "Gadi Amber Key praksē" } },
+        { "value": "18", "label": { "en": "Months — maximum temporary stay", "ru": "Месяцев — максимальный срок пребывания", "lv": "Mēneši — maksimālais uzturēšanās termiņš" } },
+        { "value": "2.5×", "label": { "en": "Average net salary — income threshold", "ru": "Средней чистой зарплаты — минимальный доход", "lv": "Vidējās neto algas — ienākumu slieksnis" } }
+      ],
+      "paragraphs": [
+        {
+          "en": "Applicants who need a visa to enter Croatia apply through a Croatian diplomatic mission or consulate. Others may apply online or at a police administration or station in Croatia. The status is granted for the purpose of remote work and has its own rules on extension and repeat applications.",
+          "ru": "Заявители, которым для въезда в Хорватию требуется виза, подают документы через дипломатическое представительство или консульство Хорватии. Остальные могут подать заявление онлайн либо в полицейском управлении или участке в Хорватии. Статус предоставляется с целью удаленной работы и имеет собственные правила продления и повторной подачи.",
+          "lv": "Pieteicēji, kuriem iebraukšanai Horvātijā nepieciešama vīza, iesniedz dokumentus Horvātijas diplomātiskajā pārstāvniecībā vai konsulātā. Pārējie var pieteikties tiešsaistē vai policijas pārvaldē vai iecirknī Horvātijā. Statuss tiek piešķirts attālināta darba nolūkā, un tam ir savi pagarināšanas un atkārtotas pieteikšanās noteikumi."
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "chip": { "en": "Benefits", "ru": "Преимущества", "lv": "Priekšrocības" },
+      "title": { "en": "Programme advantages", "ru": "Преимущества программы", "lv": "Programmas priekšrocības" },
+      "items": [
+        {
+          "icon": "home",
+          "title": { "en": "Legal stay in an EU country", "ru": "Законное проживание в стране ЕС", "lv": "Likumīga uzturēšanās ES valstī" },
+          "text": { "en": "An official basis to live in Croatia for up to 18 months.", "ru": "Официальное основание для проживания в Хорватии до 18 месяцев.", "lv": "Oficiāls pamats dzīvot Horvātijā līdz 18 mēnešiem." }
+        },
+        {
+          "icon": "laptop",
+          "title": { "en": "Keep your current work", "ru": "Сохранение текущей работы", "lv": "Esošā darba saglabāšana" },
+          "text": { "en": "Continue working for your foreign employer or your own foreign company.", "ru": "Продолжайте работать на иностранного работодателя или собственную иностранную компанию.", "lv": "Turpiniet strādāt ārvalstu darba devējam vai savam ārvalstu uzņēmumam." }
+        },
+        {
+          "icon": "plane",
+          "title": { "en": "Travel across Schengen", "ru": "Поездки по Шенгенской зоне", "lv": "Ceļošana Šengenas zonā" },
+          "text": { "en": "Croatia is part of the Schengen area — travel under the general rules.", "ru": "Хорватия входит в Шенгенскую зону — поездки по общим правилам.", "lv": "Horvātija ir Šengenas zonā — ceļošana saskaņā ar vispārējiem noteikumiem." }
+        },
+        {
+          "icon": "family",
+          "title": { "en": "Relocation with family", "ru": "Переезд вместе с семьей", "lv": "Pārcelšanās kopā ar ģimeni" },
+          "text": { "en": "Close family members can join you through family reunification.", "ru": "Близкие члены семьи могут присоединиться через воссоединение семьи.", "lv": "Tuvi ģimenes locekļi var pievienoties ģimenes apvienošanas kārtībā." }
+        },
+        {
+          "icon": "sun",
+          "title": { "en": "Quality of life", "ru": "Качество жизни", "lv": "Dzīves kvalitāte" },
+          "text": { "en": "A Mediterranean climate, safe cities and a growing remote-work community.", "ru": "Средиземноморский климат, безопасные города и растущее сообщество удаленщиков.", "lv": "Vidusjūras klimats, drošas pilsētas un augoša attālināto darbinieku kopiena." }
+        },
+        {
+          "icon": "pin",
+          "title": { "en": "Flexible application", "ru": "Гибкий порядок подачи", "lv": "Elastīga pieteikšanās" },
+          "text": { "en": "Apply via a consulate, online or in Croatia, depending on your citizenship.", "ru": "Через консульство, онлайн или в Хорватии — в зависимости от гражданства.", "lv": "Caur konsulātu, tiešsaistē vai Horvātijā — atkarībā no pilsonības." }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "chip": { "en": "Eligibility", "ru": "Условия", "lv": "Nosacījumi" },
+      "title": { "en": "Who the programme is for and what it requires", "ru": "Кому подходит программа и что требуется", "lv": "Kam programma der un kas nepieciešams" },
+      "lead": {
+        "en": "Every case is reviewed individually. The final list of requirements depends on your citizenship, employment format and personal situation.",
+        "ru": "Каждая ситуация рассматривается индивидуально. Окончательный перечень требований зависит от гражданства, формата занятости и личных обстоятельств.",
+        "lv": "Katra situācija tiek izvērtēta individuāli. Galīgais prasību saraksts ir atkarīgs no pilsonības, nodarbinātības formas un personīgajiem apstākļiem."
+      },
+      "groups": [
+        {
+          "title": { "en": "Who the programme is for", "ru": "Кому подходит программа", "lv": "Kam programma ir piemērota" },
+          "items": [
+            { "en": "Remote employees of foreign companies", "ru": "Удаленным сотрудникам иностранных компаний", "lv": "Ārvalstu uzņēmumu attālinātajiem darbiniekiem" },
+            { "en": "Owners of companies registered outside Croatia", "ru": "Владельцам компаний, зарегистрированных за пределами Хорватии", "lv": "Ārpus Horvātijas reģistrētu uzņēmumu īpašniekiem" },
+            { "en": "IT specialists and developers", "ru": "IT-специалистам и разработчикам", "lv": "IT speciālistiem un izstrādātājiem" },
+            { "en": "Designers, marketers and content creators", "ru": "Дизайнерам, маркетологам и создателям контента", "lv": "Dizaineriem, mārketinga speciālistiem un satura veidotājiem" },
+            { "en": "Consultants and analysts", "ru": "Консультантам и аналитикам", "lv": "Konsultantiem un analītiķiem" },
+            { "en": "Specialists who want to live by the sea for a period", "ru": "Специалистам, желающим пожить у моря определенный период", "lv": "Speciālistiem, kuri vēlas kādu laiku dzīvot pie jūras" }
+          ]
+        },
+        {
+          "title": { "en": "Main requirements", "ru": "Основные требования", "lv": "Galvenās prasības" },
+          "items": [
+            { "en": "Citizenship of a country outside the EU/EEA and Switzerland", "ru": "Гражданство страны вне ЕС/ЕЭЗ и Швейцарии", "lv": "Valsts pilsonība ārpus ES/EEZ un Šveices" },
+            { "en": "Remote work through communication technology", "ru": "Удаленная работа с использованием коммуникационных технологий", "lv": "Attālināts darbs ar sakaru tehnoloģiju palīdzību" },
+            { "en": "An employer or own company not registered in Croatia", "ru": "Работодатель или собственная компания, не зарегистрированные в Хорватии", "lv": "Darba devējs vai savs uzņēmums, kas nav reģistrēts Horvātijā" },
+            { "en": "No work or services for employers in Croatia", "ru": "Отсутствие работы и услуг для работодателей в Хорватии", "lv": "Nekāda darba vai pakalpojumu Horvātijas darba devējiem" },
+            { "en": "Sufficient means — at least 2.5 average monthly net salaries", "ru": "Достаточные средства — не менее 2,5 средних месячных чистых зарплат", "lv": "Pietiekami līdzekļi — vismaz 2,5 vidējās mēneša neto algas" },
+            { "en": "Health insurance valid in Croatia", "ru": "Медицинская страховка, действующая в Хорватии", "lv": "Horvātijā derīga veselības apdrošināšana" },
+            { "en": "No criminal record", "ru": "Отсутствие судимости", "lv": "Sodāmības neesamība" },
+            { "en": "An address in Croatia", "ru": "Адрес проживания в Хорватии", "lv": "Dzīvesvietas adrese Horvātijā" }
+          ],
+          "note": {
+            "en": "The income threshold is based on official salary statistics and is updated, so the exact amount is confirmed at consultation.",
+            "ru": "Порог дохода рассчитывается на основе официальной статистики зарплат и периодически обновляется, поэтому точная сумма уточняется на консультации.",
+            "lv": "Ienākumu slieksnis tiek aprēķināts, pamatojoties uz oficiālo algu statistiku, un tiek atjaunināts, tāpēc precīza summa tiek precizēta konsultācijā."
+          }
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "chip": { "en": "Our support", "ru": "Сопровождение", "lv": "Mūsu atbalsts" },
+      "title": { "en": "What Amber Key support includes", "ru": "Что входит в сопровождение Amber Key", "lv": "Ko ietver Amber Key atbalsts" },
+      "lead": {
+        "en": "We support the client at every stage:",
+        "ru": "Мы сопровождаем клиента на каждом этапе:",
+        "lv": "Mēs pavadām klientu katrā posmā:"
+      },
+      "items": [
+        { "en": "Initial consultation", "ru": "Предварительная консультация", "lv": "Sākotnējā konsultācija" },
+        { "en": "Assessment of your employment format and income", "ru": "Анализ формата занятости и дохода", "lv": "Nodarbinātības formas un ienākumu izvērtēšana" },
+        { "en": "Choosing where and how to apply", "ru": "Определение порядка и места подачи", "lv": "Pieteikšanās kārtības un vietas noteikšana" },
+        { "en": "A personal document list", "ru": "Индивидуальный список документов", "lv": "Individuāls dokumentu saraksts" },
+        { "en": "Review of documents and translations", "ru": "Проверка документов и переводов", "lv": "Dokumentu un tulkojumu pārbaude" },
+        { "en": "Preparation of the application package", "ru": "Подготовка пакета документов", "lv": "Pieteikuma dokumentu paketes sagatavošana" },
+        { "en": "Support with family reunification", "ru": "Сопровождение воссоединения семьи", "lv": "Atbalsts ģimenes apvienošanā" },
+        { "en": "Support until approval and address registration", "ru": "Сопровождение до одобрения и регистрации адреса", "lv": "Atbalsts līdz apstiprinājumam un adreses reģistrācijai" }
+      ],
+      "image": "hr-1",
+      "reverse": false
+    },
+    {
+      "type": "checklist",
+      "chip": { "en": "Documents", "ru": "Документы", "lv": "Dokumenti" },
+      "title": { "en": "Documents usually required", "ru": "Какие документы обычно необходимы", "lv": "Parasti nepieciešamie dokumenti" },
+      "lead": {
+        "en": "The final list is determined individually. As a rule, you will need:",
+        "ru": "Окончательный перечень определяется индивидуально. Как правило, требуются:",
+        "lv": "Galīgais saraksts tiek noteikts individuāli. Parasti nepieciešams:"
+      },
+      "items": [
+        { "en": "Application form", "ru": "Анкета-заявление", "lv": "Pieteikuma veidlapa" },
+        { "en": "Valid passport", "ru": "Действующий паспорт", "lv": "Derīga pase" },
+        { "en": "Health insurance valid in Croatia", "ru": "Медицинская страховка, действующая в Хорватии", "lv": "Horvātijā derīga veselības apdrošināšana" },
+        { "en": "Employment contract or employer statement", "ru": "Трудовой договор или заявление работодателя", "lv": "Darba līgums vai darba devēja apliecinājums" },
+        { "en": "Company registration documents, if you work through your own company", "ru": "Документы о регистрации собственной компании, если вы работаете через нее", "lv": "Sava uzņēmuma reģistrācijas dokumenti, ja strādājat caur to" },
+        { "en": "Bank statement or payslips confirming income", "ru": "Банковская выписка или расчетные листы о доходе", "lv": "Bankas izraksts vai algas lapiņas par ienākumiem" },
+        { "en": "Legalised criminal record certificate", "ru": "Легализованная справка об отсутствии судимости", "lv": "Legalizēta izziņa par sodāmības neesamību" },
+        { "en": "Address in Croatia", "ru": "Адрес проживания в Хорватии", "lv": "Dzīvesvietas adrese Horvātijā" },
+        { "en": "Certified translations where required", "ru": "Заверенные переводы при необходимости", "lv": "Apliecināti tulkojumi, ja nepieciešams" }
+      ],
+      "note": {
+        "en": "Before we start, we provide each client with a personal list of documents.",
+        "ru": "Перед началом работы мы предоставляем каждому клиенту индивидуальный список документов.",
+        "lv": "Pirms darba sākšanas mēs katram klientam sagatavojam individuālu dokumentu sarakstu."
+      },
+      "reverse": true
+    },
+    {
+      "type": "statement",
+      "chip": { "en": "Good to know", "ru": "Полезно знать", "lv": "Noderīgi zināt" },
+      "title": { "en": "What is important to know in advance", "ru": "Что важно знать заранее", "lv": "Kas svarīgi zināt iepriekš" },
+      "paragraphs": [
+        {
+          "en": "The status is intended strictly for remote work for foreign companies: a digital nomad may not work for or provide services to employers in Croatia. Under current Croatian law, income received from such work for a foreign employer may be exempt from Croatian income tax — how this applies to you depends on your individual circumstances.",
+          "ru": "Статус предназначен исключительно для удаленной работы на иностранные компании: цифровой кочевник не может работать или оказывать услуги работодателям в Хорватии. Согласно действующему законодательству Хорватии, доход от такой работы на иностранного работодателя может освобождаться от хорватского подоходного налога — применение этой нормы зависит от индивидуальных обстоятельств.",
+          "lv": "Statuss paredzēts tikai attālinātam darbam ārvalstu uzņēmumiem: digitālais nomads nedrīkst strādāt vai sniegt pakalpojumus Horvātijas darba devējiem. Saskaņā ar spēkā esošajiem Horvātijas tiesību aktiem ienākumi no šāda darba ārvalstu darba devējam var tikt atbrīvoti no Horvātijas iedzīvotāju ienākuma nodokļa — tā piemērošana ir atkarīga no individuālajiem apstākļiem."
+        },
+        {
+          "en": "Close family members can apply for family reunification only after the digital nomad's own temporary stay has been approved. Each family member also increases the required level of financial means.",
+          "ru": "Близкие члены семьи могут подать заявление на воссоединение только после одобрения временного пребывания самого цифрового кочевника. Каждый член семьи также увеличивает требуемый уровень финансовых средств.",
+          "lv": "Tuvi ģimenes locekļi var pieteikties ģimenes apvienošanai tikai pēc tam, kad apstiprināta paša digitālā nomada pagaidu uzturēšanās. Katrs ģimenes loceklis arī palielina nepieciešamo finanšu līdzekļu apjomu."
+        }
+      ],
+      "bullets": [
+        { "en": "Register your address within 3 days of entering Croatia", "ru": "Регистрация адреса в течение 3 дней после въезда в Хорватию", "lv": "Adreses reģistrācija 3 dienu laikā pēc iebraukšanas Horvātijā" },
+        { "en": "Extension must be requested no later than 60 days before expiry", "ru": "Заявление на продление — не позднее чем за 60 дней до окончания срока", "lv": "Pagarināšanas pieteikums — ne vēlāk kā 60 dienas pirms termiņa beigām" },
+        { "en": "Visa nationals apply only through a Croatian consulate", "ru": "Граждане визовых стран подают документы только через консульство Хорватии", "lv": "Vīzu režīma valstu pilsoņi piesakās tikai Horvātijas konsulātā" }
+      ],
+      "highlight": {
+        "en": "The digital nomad status is temporary and designed for remote work — if you plan a long-term move, we will help you assess other legal grounds in advance.",
+        "ru": "Статус цифрового кочевника носит временный характер и предназначен для удаленной работы — если вы планируете долгосрочный переезд, мы заранее поможем оценить другие законные основания.",
+        "lv": "Digitālā nomada statuss ir pagaidu un paredzēts attālinātam darbam — ja plānojat ilgtermiņa pārcelšanos, mēs savlaicīgi palīdzēsim izvērtēt citus likumīgus pamatus."
+      }
+    },
+    {
+      "type": "grid",
+      "chip": { "en": "Why Amber Key", "ru": "Почему Amber Key", "lv": "Kāpēc Amber Key" },
+      "title": { "en": "Why choose Amber Key", "ru": "Почему выбирают Amber Key", "lv": "Kāpēc izvēlēties Amber Key" },
+      "items": [
+        {
+          "icon": "star",
+          "title": { "en": "8+ years of international experience", "ru": "Более 8 лет международного опыта", "lv": "Vairāk nekā 8 gadu starptautiskā pieredze" },
+          "text": { "en": "We support clients from different countries with relocation and immigration programmes.", "ru": "Мы сопровождаем клиентов из разных стран при переезде и оформлении иммиграционных программ.", "lv": "Pavadām klientus no dažādām valstīm pārcelšanās un imigrācijas programmu noformēšanā." }
+        },
+        {
+          "icon": "compass",
+          "title": { "en": "Individual strategy", "ru": "Индивидуальная стратегия", "lv": "Individuāla stratēģija" },
+          "text": { "en": "Every situation is unique, so the preparation strategy is developed individually.", "ru": "Каждая ситуация уникальна, поэтому стратегия подготовки разрабатывается индивидуально.", "lv": "Katra situācija ir unikāla, tāpēc sagatavošanas stratēģija tiek izstrādāta individuāli." }
+        },
+        {
+          "icon": "shield",
+          "title": { "en": "End-to-end support", "ru": "Комплексное сопровождение", "lv": "Pilns atbalsts" },
+          "text": { "en": "Support from the first consultation to the completion of the procedure.", "ru": "Поддержка от первой консультации до завершения процедуры оформления.", "lv": "Atbalsts no pirmās konsultācijas līdz procedūras pabeigšanai." }
+        },
+        {
+          "icon": "globe",
+          "title": { "en": "International expertise", "ru": "Международная экспертиза", "lv": "Starptautiskā ekspertīze" },
+          "text": { "en": "We work with various European programmes and help you choose the best option.", "ru": "Мы работаем с различными европейскими программами и помогаем выбрать наиболее подходящий вариант.", "lv": "Strādājam ar dažādām Eiropas programmām un palīdzam izvēlēties piemērotāko variantu." }
+        },
+        {
+          "icon": "scale",
+          "title": { "en": "Legality and transparency", "ru": "Законность и прозрачность", "lv": "Likumība un caurspīdīgums" },
+          "text": { "en": "All services are provided strictly in accordance with current legislation.", "ru": "Все услуги оказываются исключительно в соответствии с действующим законодательством.", "lv": "Visi pakalpojumi tiek sniegti tikai saskaņā ar spēkā esošajiem tiesību aktiem." }
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "chip": { "en": "How it works", "ru": "Как проходит оформление", "lv": "Kā notiek noformēšana" },
+      "title": { "en": "How the process works", "ru": "Как проходит оформление", "lv": "Kā notiek process" },
+      "image": "hr-2",
+      "items": [
+        { "icon": "chat", "title": { "en": "Consultation", "ru": "Консультация", "lv": "Konsultācija" }, "text": { "en": "We study your situation and goals.", "ru": "Изучаем вашу ситуацию и цели.", "lv": "Izpētām jūsu situāciju un mērķus." } },
+        { "icon": "search", "title": { "en": "Eligibility check", "ru": "Оценка соответствия", "lv": "Atbilstības pārbaude" }, "text": { "en": "We assess your employment, income and citizenship.", "ru": "Оцениваем занятость, доход и гражданство.", "lv": "Izvērtējam nodarbinātību, ienākumus un pilsonību." } },
+        { "icon": "document", "title": { "en": "Documents", "ru": "Подготовка документов", "lv": "Dokumenti" }, "text": { "en": "We help you collect the full package.", "ru": "Помогаем собрать полный пакет документов.", "lv": "Palīdzam savākt pilnu dokumentu paketi." } },
+        { "icon": "flag", "title": { "en": "Application", "ru": "Подача заявления", "lv": "Pieteikums" }, "text": { "en": "We support the submission via consulate, online or in Croatia.", "ru": "Сопровождаем подачу через консульство, онлайн или в Хорватии.", "lv": "Pavadām iesniegšanu konsulātā, tiešsaistē vai Horvātijā." } },
+        { "icon": "clock", "title": { "en": "Review", "ru": "Рассмотрение заявки", "lv": "Izskatīšana" }, "text": { "en": "We monitor the review of your documents.", "ru": "Контролируем рассмотрение документов.", "lv": "Uzraugām dokumentu izskatīšanu." } },
+        { "icon": "key", "title": { "en": "Result", "ru": "Получение решения", "lv": "Rezultāts" }, "text": { "en": "We help with registration and next steps.", "ru": "Помогаем с регистрацией и дальнейшими шагами.", "lv": "Palīdzam ar reģistrāciju un turpmākajiem soļiem." } }
+      ],
+      "cta": { "label": { "en": "Book a consultation", "ru": "Записаться на консультацию", "lv": "Pieteikties konsultācijai" }, "href": "contact/" }
+    },
+    {
+      "type": "cta",
+      "title": { "en": "Get a personal consultation", "ru": "Получите персональную консультацию", "lv": "Saņemiet personīgu konsultāciju" },
+      "text": {
+        "en": "If you plan to work remotely from Croatia, Amber Key specialists will assess your situation, prepare the necessary documents and provide end-to-end support at every stage of the digital nomad application.",
+        "ru": "Если вы планируете работать удаленно из Хорватии, специалисты Amber Key помогут оценить вашу ситуацию, подготовить необходимые документы и обеспечат комплексное сопровождение на всех этапах оформления статуса Digital Nomad.",
+        "lv": "Ja plānojat strādāt attālināti no Horvātijas, Amber Key speciālisti izvērtēs jūsu situāciju, sagatavos nepieciešamos dokumentus un nodrošinās pilnu atbalstu visos Digital Nomad statusa noformēšanas posmos."
+      },
+      "button": { "en": "Get a personal consultation", "ru": "Получить персональную консультацию", "lv": "Saņemt personīgu konsultāciju" }
+    }
+  ]
+}

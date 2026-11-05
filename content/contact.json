@@ -1,0 +1,47 @@
+{
+  "id": "contact",
+  "path": "contact/",
+  "nav": { "en": "Contact", "ru": "Контакты", "lv": "Kontakti" },
+  "seo": {
+    "title": {
+      "en": "Contact Amber Key | Consultation on Residence Permits, Work Visas and Business in Europe",
+      "ru": "Контакты Amber Key | Консультация по ВНЖ, рабочим визам и бизнесу в Европе",
+      "lv": "Amber Key kontakti | Konsultācija par uzturēšanās atļaujām, darba vīzām un biznesu Eiropā"
+    },
+    "description": {
+      "en": "Contact Amber Key in Riga: +371 24202320 (WhatsApp, Viber, Telegram), sia.amber.key@gmail.com. Book a consultation on residence permits, work visas, business registration or relocation.",
+      "ru": "Свяжитесь с Amber Key в Риге: +371 24202320 (WhatsApp, Viber, Telegram), sia.amber.key@gmail.com. Запишитесь на консультацию по ВНЖ, рабочим визам, регистрации бизнеса и релокации.",
+      "lv": "Sazinieties ar Amber Key Rīgā: +371 24202320 (WhatsApp, Viber, Telegram), sia.amber.key@gmail.com. Piesakieties konsultācijai par uzturēšanās atļaujām, darba vīzām, biznesu un pārcelšanos."
+    },
+    "image": "contact-hero"
+  },
+  "blocks": [
+    {
+      "type": "hero",
+      "title": { "en": "Contact Amber Key", "ru": "Свяжитесь с Amber Key", "lv": "Sazinieties ar Amber Key" },
+      "lead": {
+        "en": "We are ready to answer your questions, help you choose the right programme and support you at every stage.",
+        "ru": "Мы готовы ответить на ваши вопросы, помочь выбрать подходящую программу и сопровождать вас на каждом этапе оформления.",
+        "lv": "Esam gatavi atbildēt uz jūsu jautājumiem, palīdzēt izvēlēties piemērotāko programmu un pavadīt jūs katrā posmā."
+      },
+      "image": "contact-hero",
+      "tags": [
+        { "label": { "en": "WhatsApp", "ru": "WhatsApp", "lv": "WhatsApp" }, "href": "https://wa.me/37124202320" },
+        { "label": { "en": "Viber", "ru": "Viber", "lv": "Viber" }, "href": "viber://chat?number=%2B37124202320" },
+        { "label": { "en": "Telegram", "ru": "Telegram", "lv": "Telegram" }, "href": "https://t.me/+37124202320" },
+        { "label": { "en": "EN · RU · LV", "ru": "RU · EN · LV", "lv": "LV · EN · RU" } }
+      ],
+      "cta": { "label": { "en": "Call +371 24202320", "ru": "Позвонить +371 24202320", "lv": "Zvanīt +371 24202320" }, "href": "tel:+37124202320" }
+    },
+    {
+      "type": "contact",
+      "chip": { "en": "Contacts", "ru": "Контакты", "lv": "Kontakti" },
+      "title": { "en": "How to reach us", "ru": "Как с нами связаться", "lv": "Kā ar mums sazināties" },
+      "text": {
+        "en": "Contact us in any convenient way and Amber Key specialists will help you find the optimal solution for a residence permit, work visa, business registration or international relocation.",
+        "ru": "Свяжитесь с нами любым удобным способом, и специалисты Amber Key помогут подобрать оптимальное решение для получения ВНЖ, оформления рабочей визы, регистрации бизнеса или международной релокации.",
+        "lv": "Sazinieties ar mums jebkurā ērtā veidā, un Amber Key speciālisti palīdzēs atrast optimālo risinājumu uzturēšanās atļaujai, darba vīzai, uzņēmuma reģistrācijai vai starptautiskai pārcelšanai."
+      }
+    }
+  ]
+}

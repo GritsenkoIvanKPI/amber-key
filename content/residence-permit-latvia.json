@@ -1,0 +1,270 @@
+{
+  "id": "residence-permit-latvia",
+  "path": "residence-permit-latvia/",
+  "nav": { "en": "Residence permit — Latvia", "ru": "ВНЖ Латвии", "lv": "Uzturēšanās atļauja — Latvija" },
+  "seo": {
+    "title": {
+      "en": "Residence Permit in Latvia through Business | Company Registration and Support | Amber Key",
+      "ru": "ВНЖ Латвии через открытие бизнеса | Регистрация компании и сопровождение | Amber Key",
+      "lv": "Uzturēšanās atļauja Latvijā caur biznesu | Uzņēmuma reģistrācija un atbalsts | Amber Key"
+    },
+    "description": {
+      "en": "Obtain a Latvian residence permit through company registration. Full support with setting up your business and applying for a residence permit. More than 8 years of international practice.",
+      "ru": "Получение ВНЖ Латвии через регистрацию компании. Полное сопровождение оформления бизнеса и вида на жительство. Более 8 лет международной практики.",
+      "lv": "Uzturēšanās atļauja Latvijā caur uzņēmuma reģistrāciju. Pilns atbalsts biznesa un uzturēšanās atļaujas noformēšanā. Vairāk nekā 8 gadu starptautiska prakse."
+    },
+    "image": "lv-hero"
+  },
+  "blocks": [
+    {
+      "type": "hero",
+      "title": {
+        "en": "Residence permit in Latvia through starting a business",
+        "ru": "Вид на жительство в Латвии через открытие бизнеса",
+        "lv": "Uzturēšanās atļauja Latvijā caur uzņēmuma dibināšanu"
+      },
+      "lead": {
+        "en": "Open a company in Latvia and gain a legal basis to live and do business in the European Union.",
+        "ru": "Откройте компанию в Латвии и получите законное основание для проживания и ведения бизнеса в Европейском Союзе.",
+        "lv": "Dibiniet uzņēmumu Latvijā un iegūstiet likumīgu pamatu dzīvot un strādāt Eiropas Savienībā."
+      },
+      "image": "lv-hero",
+      "tags": [
+        { "label": { "en": "Business in the EU", "ru": "Бизнес в ЕС", "lv": "Bizness ES" }, "href": "contact/" },
+        { "label": { "en": "Schengen travel", "ru": "Поездки по Шенгену", "lv": "Ceļošana Šengenas zonā" } },
+        { "label": { "en": "Family relocation", "ru": "Переезд с семьей", "lv": "Pārcelšanās ar ģimeni" } },
+        { "label": { "en": "Status renewal", "ru": "Продление статуса", "lv": "Statusa pagarināšana" } }
+      ],
+      "cta": { "label": { "en": "Get a consultation", "ru": "Получить консультацию", "lv": "Saņemt konsultāciju" }, "href": "contact/" }
+    },
+    {
+      "type": "intro",
+      "chip": { "en": "About the programme", "ru": "О программе", "lv": "Par programmu" },
+      "text": {
+        "en": "Latvia remains one of the most attractive EU countries for entrepreneurs. The programme lets you **register a company in an EU country**, live in Latvia, travel freely across the Schengen Area and grow your business in a European jurisdiction.",
+        "ru": "Латвия остается одной из наиболее привлекательных стран ЕС для предпринимателей. Программа позволяет **зарегистрировать компанию в стране ЕС**, проживать в Латвии, свободно путешествовать по Шенгенской зоне и развивать бизнес в европейской юрисдикции.",
+        "lv": "Latvija joprojām ir viena no pievilcīgākajām ES valstīm uzņēmējiem. Programma ļauj **reģistrēt uzņēmumu ES valstī**, dzīvot Latvijā, brīvi ceļot pa Šengenas zonu un attīstīt biznesu Eiropas jurisdikcijā."
+      },
+      "label": { "en": "Residence in Latvia", "ru": "ВНЖ Латвии", "lv": "Uzturēšanās Latvijā" },
+      "stats": [
+        { "value": "8+", "label": { "en": "Years of international practice", "ru": "Лет международной практики", "lv": "Gadi starptautiskā praksē" } },
+        { "value": "6", "label": { "en": "Stages of the process", "ru": "Этапов оформления", "lv": "Procesa posmi" } },
+        { "value": { "en": "EU", "ru": "ЕС", "lv": "ES" }, "label": { "en": "European jurisdiction", "ru": "Европейская юрисдикция", "lv": "Eiropas jurisdikcija" } }
+      ],
+      "paragraphs": [
+        {
+          "en": "Latvia appeals to entrepreneurs who want to develop an international business, gain access to the European market and obtain a residence permit on legal grounds.",
+          "ru": "Латвия привлекает предпринимателей, которые хотят развивать международный бизнес, получить доступ к европейскому рынку и оформить вид на жительство на законных основаниях.",
+          "lv": "Latvija piesaista uzņēmējus, kuri vēlas attīstīt starptautisku biznesu, iegūt piekļuvi Eiropas tirgum un saņemt uzturēšanās atļauju uz likumīga pamata."
+        },
+        {
+          "en": "For more than 8 years Amber Key has supported clients at every stage of business registration and paperwork, offering individual solutions based on the client's goals and current legislation.",
+          "ru": "Компания Amber Key более 8 лет сопровождает клиентов на всех этапах регистрации бизнеса и оформления документов, предлагая индивидуальные решения в зависимости от целей клиента и требований действующего законодательства.",
+          "lv": "Amber Key jau vairāk nekā 8 gadus pavada klientus visos biznesa reģistrācijas un dokumentu noformēšanas posmos, piedāvājot individuālus risinājumus atbilstoši klienta mērķiem un spēkā esošo tiesību aktu prasībām."
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "chip": { "en": "Advantages", "ru": "Преимущества", "lv": "Priekšrocības" },
+      "title": { "en": "Advantages of a Latvian residence permit", "ru": "Преимущества ВНЖ Латвии", "lv": "Uzturēšanās atļaujas Latvijā priekšrocības" },
+      "lead": {
+        "en": "A residence permit opens up a wide range of opportunities.",
+        "ru": "Получение вида на жительство открывает широкий спектр возможностей.",
+        "lv": "Uzturēšanās atļauja paver plašu iespēju klāstu."
+      },
+      "items": [
+        {
+          "icon": "home",
+          "title": { "en": "Living in Latvia", "ru": "Проживание в Латвии", "lv": "Dzīvošana Latvijā" },
+          "text": { "en": "Reside in Latvia on a legal basis.", "ru": "Проживание в Латвии на законных основаниях.", "lv": "Dzīvošana Latvijā uz likumīga pamata." }
+        },
+        {
+          "icon": "plane",
+          "title": { "en": "Schengen travel", "ru": "Поездки по Шенгену", "lv": "Ceļošana Šengenas zonā" },
+          "text": { "en": "Travel freely across the countries of the Schengen Agreement.", "ru": "Свободные поездки по странам Шенгенского соглашения.", "lv": "Brīva ceļošana pa Šengenas līguma valstīm." }
+        },
+        {
+          "icon": "briefcase",
+          "title": { "en": "Business in the EU", "ru": "Бизнес в ЕС", "lv": "Bizness ES" },
+          "text": { "en": "Run entrepreneurial activity in the European Union.", "ru": "Ведение предпринимательской деятельности в Европейском Союзе.", "lv": "Uzņēmējdarbības veikšana Eiropas Savienībā." }
+        },
+        {
+          "icon": "family",
+          "title": { "en": "Relocation with family", "ru": "Переезд с семьей", "lv": "Pārcelšanās ar ģimeni" },
+          "text": { "en": "The possibility to move together with your family.", "ru": "Возможность переезда вместе с семьей.", "lv": "Iespēja pārcelties kopā ar ģimeni." }
+        },
+        {
+          "icon": "card",
+          "title": { "en": "EU services", "ru": "Услуги ЕС", "lv": "ES pakalpojumi" },
+          "text": { "en": "Access to EU banking, legal and corporate services.", "ru": "Доступ к банковским, юридическим и корпоративным услугам ЕС.", "lv": "Piekļuve ES banku, juridiskajiem un korporatīvajiem pakalpojumiem." }
+        },
+        {
+          "icon": "clock",
+          "title": { "en": "Status renewal", "ru": "Продление статуса", "lv": "Statusa pagarināšana" },
+          "text": { "en": "The possibility of further renewal, provided legal requirements are met.", "ru": "Возможность дальнейшего продления статуса при соблюдении требований законодательства.", "lv": "Iespēja turpmāk pagarināt statusu, ievērojot tiesību aktu prasības." }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "chip": { "en": "Who it is for", "ru": "Для кого", "lv": "Kam tā paredzēta" },
+      "title": { "en": "Who the programme is for", "ru": "Кому подходит программа", "lv": "Kam piemērota programma" },
+      "groups": [
+        {
+          "title": { "en": "The programme suits", "ru": "Программа подходит", "lv": "Programma piemērota" },
+          "items": [
+            { "en": "Entrepreneurs", "ru": "Предпринимателям", "lv": "Uzņēmējiem" },
+            { "en": "International business owners", "ru": "Владельцам международного бизнеса", "lv": "Starptautiska biznesa īpašniekiem" },
+            { "en": "Investors", "ru": "Инвесторам", "lv": "Investoriem" },
+            { "en": "IT specialists", "ru": "IT-специалистам", "lv": "IT speciālistiem" },
+            { "en": "Consultants", "ru": "Консультантам", "lv": "Konsultantiem" },
+            { "en": "Online store owners", "ru": "Владельцам интернет-магазинов", "lv": "Interneta veikalu īpašniekiem" },
+            { "en": "Export companies", "ru": "Экспортным компаниям", "lv": "Eksporta uzņēmumiem" },
+            { "en": "Specialists who want to grow their activity in the EU", "ru": "Специалистам, желающим развивать деятельность в ЕС", "lv": "Speciālistiem, kuri vēlas attīstīt darbību ES" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "chip": { "en": "Our support", "ru": "Сопровождение", "lv": "Mūsu atbalsts" },
+      "title": { "en": "What Amber Key support includes", "ru": "Что входит в сопровождение Amber Key", "lv": "Ko ietver Amber Key atbalsts" },
+      "lead": { "en": "We provide comprehensive support.", "ru": "Мы оказываем комплексное сопровождение.", "lv": "Mēs nodrošinām visaptverošu atbalstu." },
+      "items": [
+        { "en": "Analysis of your situation", "ru": "Анализ вашей ситуации", "lv": "Jūsu situācijas analīze" },
+        { "en": "Selection of the most suitable legal basis", "ru": "Подбор наиболее подходящего основания оформления", "lv": "Piemērotākā noformēšanas pamata izvēle" },
+        { "en": "Registration of a Latvian company", "ru": "Регистрация латвийской компании", "lv": "Latvijas uzņēmuma reģistrācija" },
+        { "en": "Preparation of corporate documents", "ru": "Подготовка корпоративных документов", "lv": "Korporatīvo dokumentu sagatavošana" },
+        { "en": "Help setting up banking and payment solutions", "ru": "Помощь при открытии банковских и платежных решений", "lv": "Palīdzība banku un maksājumu risinājumu atvēršanā" },
+        { "en": "Support preparing the document package", "ru": "Сопровождение подготовки пакета документов", "lv": "Atbalsts dokumentu paketes sagatavošanā" },
+        { "en": "Advice on immigration law requirements", "ru": "Консультации по требованиям миграционного законодательства", "lv": "Konsultācijas par migrācijas tiesību aktu prasībām" },
+        { "en": "Support with submitting documents", "ru": "Сопровождение подачи документов", "lv": "Atbalsts dokumentu iesniegšanā" },
+        { "en": "Support after the residence permit is granted", "ru": "Поддержка после получения ВНЖ", "lv": "Atbalsts pēc uzturēšanās atļaujas saņemšanas" }
+      ],
+      "image": "lv-1",
+      "reverse": false
+    },
+    {
+      "type": "checklist",
+      "chip": { "en": "Documents", "ru": "Документы", "lv": "Dokumenti" },
+      "title": { "en": "Required documents", "ru": "Какие документы обычно необходимы", "lv": "Nepieciešamie dokumenti" },
+      "lead": {
+        "en": "The exact list depends on the applicant's specific situation. As a rule, you will need:",
+        "ru": "Точный перечень документов зависит от конкретной ситуации заявителя. Как правило, потребуются:",
+        "lv": "Precīzs dokumentu saraksts ir atkarīgs no pieteicēja konkrētās situācijas. Parasti būs nepieciešams:"
+      },
+      "items": [
+        { "en": "Valid passport", "ru": "Действующий паспорт", "lv": "Derīga pase" },
+        { "en": "Photographs", "ru": "Фотографии", "lv": "Fotogrāfijas" },
+        { "en": "Proof of residential address", "ru": "Подтверждение адреса проживания", "lv": "Dzīvesvietas adreses apliecinājums" },
+        { "en": "Company documents", "ru": "Документы компании", "lv": "Uzņēmuma dokumenti" },
+        { "en": "Information about the planned business activity", "ru": "Сведения о планируемой предпринимательской деятельности", "lv": "Informācija par plānoto uzņēmējdarbību" },
+        { "en": "Proof of sufficient financial means", "ru": "Документы, подтверждающие наличие необходимых финансовых средств", "lv": "Dokumenti, kas apliecina nepieciešamos finanšu līdzekļus" },
+        { "en": "Other documents required by law", "ru": "Иные документы, предусмотренные законодательством", "lv": "Citi tiesību aktos paredzētie dokumenti" }
+      ],
+      "note": {
+        "en": "Our specialists provide every client with an individual document list in advance.",
+        "ru": "Наши специалисты заранее предоставляют индивидуальный список документов для каждого клиента.",
+        "lv": "Mūsu speciālisti katram klientam jau iepriekš sagatavo individuālu dokumentu sarakstu."
+      },
+      "reverse": true
+    },
+    {
+      "type": "statement",
+      "chip": { "en": "Our approach", "ru": "Наш подход", "lv": "Mūsu pieeja" },
+      "title": { "en": "Practical experience matters", "ru": "Практический опыт имеет значение", "lv": "Praktiskā pieredze ir svarīga" },
+      "paragraphs": [
+        {
+          "en": "Every situation is considered individually. Latvian law provides for various grounds, requirements and exceptions that can significantly affect the process of obtaining a residence permit.",
+          "ru": "Каждая ситуация рассматривается индивидуально. Законодательство Латвии предусматривает различные основания оформления, требования и исключения, которые могут существенно влиять на процесс получения ВНЖ.",
+          "lv": "Katra situācija tiek izskatīta individuāli. Latvijas tiesību akti paredz dažādus pamatus, prasības un izņēmumus, kas var būtiski ietekmēt uzturēšanās atļaujas saņemšanas procesu."
+        },
+        {
+          "en": "That is why we start not with paperwork but with an analysis of the client's situation. Thanks to our practical experience, we help choose the most advantageous and fully legal option whenever current law allows several possible solutions.",
+          "ru": "Именно поэтому мы начинаем работу не с оформления документов, а с анализа ситуации клиента. Благодаря практическому опыту мы помогаем подобрать наиболее выгодный и полностью законный вариант оформления, если действующее законодательство предусматривает несколько возможных решений.",
+          "lv": "Tieši tāpēc mēs darbu sākam nevis ar dokumentu noformēšanu, bet ar klienta situācijas analīzi. Pateicoties praktiskajai pieredzei, palīdzam izvēlēties izdevīgāko un pilnībā likumīgo variantu, ja spēkā esošie tiesību akti paredz vairākus iespējamos risinājumus."
+        }
+      ],
+      "highlight": {
+        "en": "For example, in certain cases there are requirements for the minimum salary of the company director. The standard level is currently 1815 EUR per month, unless the law provides for relevant exceptions.",
+        "ru": "Например, в отдельных случаях применяются требования к минимальному размеру заработной платы руководителя компании. В настоящее время стандартный уровень составляет 1815 евро в месяц, если законодательством не предусмотрены соответствующие исключения.",
+        "lv": "Piemēram, atsevišķos gadījumos tiek piemērotas prasības uzņēmuma vadītāja minimālajai darba algai. Pašlaik standarta līmenis ir 1815 EUR mēnesī, ja tiesību akti neparedz attiecīgus izņēmumus."
+      }
+    },
+    {
+      "type": "grid",
+      "chip": { "en": "Why Amber Key", "ru": "Почему Amber Key", "lv": "Kāpēc Amber Key" },
+      "title": { "en": "Why choose Amber Key", "ru": "Почему выбирают Amber Key", "lv": "Kāpēc izvēlēties Amber Key" },
+      "items": [
+        {
+          "icon": "star",
+          "title": { "en": "8+ years of practical experience", "ru": "Более 8 лет практического опыта", "lv": "Vairāk nekā 8 gadu prakse" },
+          "text": { "en": "We support international projects, company registrations and paperwork for clients from many countries.", "ru": "Сопровождаем международные проекты, регистрацию компаний и оформление документов для клиентов из разных стран.", "lv": "Pavadām starptautiskus projektus, uzņēmumu reģistrāciju un dokumentu noformēšanu klientiem no dažādām valstīm." }
+        },
+        {
+          "icon": "search",
+          "title": { "en": "Individual analysis", "ru": "Индивидуальный анализ", "lv": "Individuāla analīze" },
+          "text": { "en": "No template solutions — every case is considered separately.", "ru": "Мы не используем шаблонные решения. Каждое дело рассматривается отдельно.", "lv": "Mēs neizmantojam šablonu risinājumus — katra lieta tiek izskatīta atsevišķi." }
+        },
+        {
+          "icon": "scale",
+          "title": { "en": "Legality", "ru": "Законность", "lv": "Likumība" },
+          "text": { "en": "We work strictly within the laws of Latvia and the European Union.", "ru": "Работаем исключительно в рамках действующего законодательства Латвии и ЕС.", "lv": "Strādājam tikai Latvijas un Eiropas Savienības spēkā esošo tiesību aktu ietvaros." }
+        },
+        {
+          "icon": "shield",
+          "title": { "en": "End-to-end support", "ru": "Комплексное сопровождение", "lv": "Visaptverošs atbalsts" },
+          "text": { "en": "Support from the first consultation to the completion of the procedure.", "ru": "Поддержка от первой консультации до завершения процедуры оформления.", "lv": "Atbalsts no pirmās konsultācijas līdz procedūras pabeigšanai." }
+        },
+        {
+          "icon": "globe",
+          "title": { "en": "International expertise", "ru": "Международная экспертиза", "lv": "Starptautiska ekspertīze" },
+          "text": { "en": "We work in Latvia and other European countries, so we can propose the optimal jurisdiction for your goals.", "ru": "Сопровождаем проекты в Латвии и других странах Европы и предлагаем оптимальную юрисдикцию для ваших задач.", "lv": "Pavadām projektus Latvijā un citās Eiropas valstīs, tāpēc varam piedāvāt jūsu mērķiem optimālo jurisdikciju." }
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "chip": { "en": "Process", "ru": "Этапы", "lv": "Process" },
+      "title": { "en": "How the process works", "ru": "Как проходит оформление", "lv": "Kā notiek process" },
+      "image": "lv-2",
+      "items": [
+        { "icon": "chat", "title": { "en": "Consultation", "ru": "Консультация", "lv": "Konsultācija" }, "text": { "en": "We study your situation and identify possible options.", "ru": "Изучаем вашу ситуацию и определяем возможные варианты.", "lv": "Izpētām jūsu situāciju un nosakām iespējamos variantus." } },
+        { "icon": "compass", "title": { "en": "Strategy", "ru": "Разработка стратегии", "lv": "Stratēģija" }, "text": { "en": "We choose the best model for business and residence.", "ru": "Подбираем подходящую модель регистрации бизнеса и ВНЖ.", "lv": "Izvēlamies piemērotāko biznesa un uzturēšanās modeli." } },
+        { "icon": "document", "title": { "en": "Documents", "ru": "Подготовка документов", "lv": "Dokumenti" }, "text": { "en": "We put together the required document package.", "ru": "Формируем необходимый пакет документов.", "lv": "Sagatavojam nepieciešamo dokumentu paketi." } },
+        { "icon": "building", "title": { "en": "Company registration", "ru": "Регистрация компании", "lv": "Uzņēmuma reģistrācija" }, "text": { "en": "We register the entity and handle corporate procedures.", "ru": "Оформляем юрлицо и сопровождаем корпоративные процедуры.", "lv": "Reģistrējam juridisko personu un pavadām korporatīvās procedūras." } },
+        { "icon": "flag", "title": { "en": "Submission", "ru": "Подача документов", "lv": "Iesniegšana" }, "text": { "en": "We support you when filing the residence permit application.", "ru": "Сопровождаем при подаче заявления на ВНЖ.", "lv": "Pavadām jūs, iesniedzot pieteikumu uzturēšanās atļaujai." } },
+        { "icon": "key", "title": { "en": "Decision", "ru": "Получение решения", "lv": "Lēmums" }, "text": { "en": "We keep supporting you on business and status renewal.", "ru": "Продолжаем сопровождение по бизнесу и продлению статуса.", "lv": "Turpinām atbalstu biznesa un statusa pagarināšanas jautājumos." } }
+      ],
+      "cta": { "label": { "en": "Book a consultation", "ru": "Записаться на консультацию", "lv": "Pieteikties konsultācijai" }, "href": "contact/" }
+    },
+    {
+      "type": "statement",
+      "chip": { "en": "Expert support", "ru": "Экспертная поддержка", "lv": "Ekspertu atbalsts" },
+      "title": { "en": "Why it matters to work with specialists", "ru": "Почему важно обращаться к специалистам", "lv": "Kāpēc svarīgi uzticēties speciālistiem" },
+      "paragraphs": [
+        {
+          "en": "Mistakes in choosing the legal basis, preparing documents or planning the corporate structure can lead to additional costs and longer processing times.",
+          "ru": "Ошибки при выборе основания оформления, подготовке документов или планировании корпоративной структуры могут привести к дополнительным расходам и увеличению сроков рассмотрения.",
+          "lv": "Kļūdas noformēšanas pamata izvēlē, dokumentu sagatavošanā vai korporatīvās struktūras plānošanā var radīt papildu izmaksas un pagarināt izskatīšanas termiņus."
+        },
+        {
+          "en": "A preliminary analysis helps choose the most suitable path, taking into account the law, the specifics of the business and the applicant's goals.",
+          "ru": "Предварительный анализ позволяет выбрать наиболее подходящий путь оформления с учетом законодательства, особенностей бизнеса и целей заявителя.",
+          "lv": "Sākotnējā analīze ļauj izvēlēties piemērotāko ceļu, ņemot vērā tiesību aktus, biznesa specifiku un pieteicēja mērķus."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": { "en": "Get a personal consultation", "ru": "Получите персональную консультацию", "lv": "Saņemiet personīgu konsultāciju" },
+      "text": {
+        "en": "Considering opening a company in Latvia and obtaining a residence permit? Amber Key specialists will assess your situation, choose the optimal strategy and support the process at every stage. Contact us for an individual consultation and start today.",
+        "ru": "Если вы рассматриваете возможность открытия компании в Латвии и оформления вида на жительство, специалисты Amber Key помогут оценить вашу ситуацию, подобрать оптимальную стратегию и сопроводить процесс на всех этапах. Свяжитесь с нами, чтобы получить индивидуальную консультацию и начать оформление уже сегодня.",
+        "lv": "Apsverat iespēju dibināt uzņēmumu Latvijā un noformēt uzturēšanās atļauju? Amber Key speciālisti palīdzēs izvērtēt jūsu situāciju, izvēlēties optimālo stratēģiju un pavadīs procesu visos posmos. Sazinieties ar mums, lai saņemtu individuālu konsultāciju un sāktu jau šodien."
+      },
+      "button": { "en": "Get a consultation", "ru": "Получить консультацию", "lv": "Saņemt konsultāciju" }
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "id": "work-visas",
+  "path": "work-visas/",
+  "nav": { "en": "Work visas", "ru": "Рабочие визы", "lv": "Darba vīzas" },
+  "seo": {
+    "title": {
+      "en": "Work Visas for Europe | Legal Employment | Amber Key",
+      "ru": "Рабочие визы в Европу | Официальное трудоустройство | Amber Key",
+      "lv": "Darba vīzas uz Eiropu | Legāla nodarbinātība | Amber Key"
+    },
+    "description": {
+      "en": "Legal employment in Europe. Work visas, help with finding vacancies, document preparation and full support. Germany, Latvia, Czech Republic, Croatia, Lithuania, Bulgaria, Romania, Serbia, Israel.",
+      "ru": "Официальное трудоустройство в Европе. Рабочие визы, помощь в подборе вакансий, оформление документов и сопровождение. Германия, Латвия, Чехия, Хорватия, Литва, Болгария, Румыния, Сербия, Израиль.",
+      "lv": "Legāla nodarbinātība Eiropā. Darba vīzas, palīdzība vakanču piemeklēšanā, dokumentu noformēšana un atbalsts. Vācija, Latvija, Čehija, Horvātija, Lietuva, Bulgārija, Rumānija, Serbija, Izraēla."
+    },
+    "image": "wv-hero"
+  },
+  "blocks": [
+    {
+      "type": "hero",
+      "title": {
+        "en": "Work visas and legal employment in Europe",
+        "ru": "Рабочие визы и официальное трудоустройство в Европе",
+        "lv": "Darba vīzas un legāla nodarbinātība Eiropā"
+      },
+      "lead": {
+        "en": "Find legal work in Europe with professional support from Amber Key — from choosing a vacancy to your first day at work.",
+        "ru": "Найдите официальную работу в Европе с профессиональным сопровождением Amber Key — от подбора вакансии до начала работы.",
+        "lv": "Atrodiet legālu darbu Eiropā ar Amber Key profesionālu atbalstu — no vakances izvēles līdz darba sākumam."
+      },
+      "image": "wv-hero",
+      "tags": [
+        { "label": { "en": "9 countries", "ru": "9 стран", "lv": "9 valstis" }, "href": "#countries" },
+        { "label": { "en": "Legal employment", "ru": "Официальное трудоустройство", "lv": "Legāla nodarbinātība" } },
+        { "label": { "en": "CE drivers — Latvia", "ru": "Водители CE — Латвия", "lv": "CE vadītāji — Latvija" }, "href": "contact/" }
+      ],
+      "cta": { "label": { "en": "Get a consultation", "ru": "Получить консультацию", "lv": "Saņemt konsultāciju" }, "href": "contact/" }
+    },
+    {
+      "type": "intro",
+      "chip": { "en": "Working abroad", "ru": "Работа за границей", "lv": "Darbs ārzemēs" },
+      "text": {
+        "en": "Working abroad is a chance to increase your income, gain international experience and build a stable future for yourself and your family. For **more than 8 years** Amber Key has helped foreign nationals go from finding a vacancy to legal employment in Europe.",
+        "ru": "Работа за границей — это возможность повысить уровень дохода, приобрести международный опыт и обеспечить стабильное будущее для себя и своей семьи. **Более 8 лет** Amber Key помогает иностранным гражданам пройти путь от поиска вакансии до официального трудоустройства в Европе.",
+        "lv": "Darbs ārzemēs ir iespēja palielināt ienākumus, iegūt starptautisku pieredzi un nodrošināt stabilu nākotni sev un savai ģimenei. **Vairāk nekā 8 gadus** Amber Key palīdz ārvalstu pilsoņiem noiet ceļu no vakances meklēšanas līdz legālai nodarbinātībai Eiropā."
+      },
+      "label": { "en": "Employment with Amber Key", "ru": "Трудоустройство с Amber Key", "lv": "Nodarbinātība ar Amber Key" },
+      "stats": [
+        { "value": "8+", "label": { "en": "Years of international practice", "ru": "Лет международной практики", "lv": "Gadi starptautiskā praksē" } },
+        { "value": "9", "label": { "en": "Countries for employment", "ru": "Стран для трудоустройства", "lv": "Valstis nodarbinātībai" } },
+        { "value": "6", "label": { "en": "Steps to your first day at work", "ru": "Шагов до начала работы", "lv": "Soļi līdz darba sākumam" } }
+      ],
+      "paragraphs": [
+        {
+          "en": "Amber Key works with employers, recruitment partners and legal specialists in various European countries.",
+          "ru": "Компания Amber Key сотрудничает с работодателями, кадровыми партнерами и юридическими специалистами в различных странах Европы.",
+          "lv": "Amber Key sadarbojas ar darba devējiem, personāla atlases partneriem un juridiskajiem speciālistiem dažādās Eiropas valstīs."
+        },
+        {
+          "en": "We support clients at every stage of document preparation and advise on obtaining work visas and work permits in line with the legislation of each country.",
+          "ru": "Мы сопровождаем клиентов на всех этапах оформления документов и консультируем по вопросам получения рабочих виз и разрешений на работу в соответствии с законодательством конкретной страны.",
+          "lv": "Mēs pavadām klientus visos dokumentu noformēšanas posmos un konsultējam par darba vīzu un darba atļauju saņemšanu saskaņā ar konkrētās valsts tiesību aktiem."
+        }
+      ]
+    },
+    {
+      "type": "countries",
+      "id": "countries",
+      "chip": { "en": "Geography", "ru": "География", "lv": "Ģeogrāfija" },
+      "title": { "en": "Countries where we help with employment", "ru": "Страны, в которых мы помогаем с трудоустройством", "lv": "Valstis, kurās palīdzam ar nodarbinātību" },
+      "lead": {
+        "en": "We support work document processing and vacancy matching in the following countries:",
+        "ru": "Мы сопровождаем оформление рабочих документов и подбор вакансий в следующих странах:",
+        "lv": "Mēs pavadām darba dokumentu noformēšanu un vakanču piemeklēšanu šādās valstīs:"
+      },
+      "items": [
+        { "code": "LV", "name": { "en": "Latvia", "ru": "Латвия", "lv": "Latvija" } },
+        { "code": "DE", "name": { "en": "Germany", "ru": "Германия", "lv": "Vācija" } },
+        { "code": "HR", "name": { "en": "Croatia", "ru": "Хорватия", "lv": "Horvātija" } },
+        { "code": "CZ", "name": { "en": "Czech Republic", "ru": "Чехия", "lv": "Čehija" } },
+        { "code": "RO", "name": { "en": "Romania", "ru": "Румыния", "lv": "Rumānija" } },
+        { "code": "LT", "name": { "en": "Lithuania", "ru": "Литва", "lv": "Lietuva" } },
+        { "code": "BG", "name": { "en": "Bulgaria", "ru": "Болгария", "lv": "Bulgārija" } },
+        { "code": "RS", "name": { "en": "Serbia", "ru": "Сербия", "lv": "Serbija" } },
+        { "code": "IL", "name": { "en": "Israel", "ru": "Израиль", "lv": "Izraēla" } }
+      ],
+      "note": {
+        "en": "The list of countries and vacancies keeps expanding as we partner with new employers.",
+        "ru": "Список стран и вакансий постоянно расширяется благодаря сотрудничеству с новыми работодателями.",
+        "lv": "Valstu un vakanču saraksts pastāvīgi paplašinās, pateicoties sadarbībai ar jauniem darba devējiem."
+      }
+    },
+    {
+      "type": "rows",
+      "chip": { "en": "Current vacancies", "ru": "Актуальные вакансии", "lv": "Aktuālās vakances" },
+      "title": { "en": "Most in-demand sectors", "ru": "Наиболее востребованные направления", "lv": "Pieprasītākās nozares" },
+      "lead": {
+        "en": "We regularly receive offers from employers across a range of industries.",
+        "ru": "Мы регулярно получаем предложения от работодателей в различных сферах деятельности.",
+        "lv": "Mēs regulāri saņemam darba devēju piedāvājumus dažādās nozarēs."
+      },
+      "items": [
+        {
+          "title": { "en": "Manufacturing", "ru": "Производство", "lv": "Ražošana" },
+          "text": {
+            "en": "Vacancies at production sites, food industry plants and furniture factories.",
+            "ru": "Вакансии на производственных предприятиях, в пищевой промышленности и на мебельных фабриках.",
+            "lv": "Vakances ražošanas uzņēmumos, pārtikas rūpniecībā un mēbeļu ražotnēs."
+          },
+          "bullets": [
+            { "en": "Production line operators", "ru": "Операторы производственных линий", "lv": "Ražošanas līniju operatori" },
+            { "en": "Packers", "ru": "Упаковщики", "lv": "Iepakotāji" },
+            { "en": "Sorters", "ru": "Сортировщики", "lv": "Šķirotāji" },
+            { "en": "Food industry workers", "ru": "Работники пищевой промышленности", "lv": "Pārtikas rūpniecības darbinieki" },
+            { "en": "Furniture factory staff", "ru": "Сотрудники мебельных предприятий", "lv": "Mēbeļu ražotņu darbinieki" }
+          ],
+          "image": "wv-2"
+        },
+        {
+          "title": { "en": "Warehouses & logistics", "ru": "Склады и логистика", "lv": "Noliktavas un loģistika" },
+          "text": {
+            "en": "Positions in warehouses, distribution centres and e-commerce fulfilment.",
+            "ru": "Позиции на складах, в распределительных центрах и на интернет-складах.",
+            "lv": "Amati noliktavās, sadales centros un interneta veikalu noliktavās."
+          },
+          "bullets": [
+            { "en": "Order pickers", "ru": "Комплектовщики заказов", "lv": "Pasūtījumu komplektētāji" },
+            { "en": "Packers", "ru": "Упаковщики", "lv": "Iepakotāji" },
+            { "en": "Distribution centre staff", "ru": "Сотрудники распределительных центров", "lv": "Sadales centru darbinieki" },
+            { "en": "Goods sorters", "ru": "Сортировщики товаров", "lv": "Preču šķirotāji" },
+            { "en": "E-commerce warehouse workers", "ru": "Работники интернет-складов", "lv": "Interneta veikalu noliktavu darbinieki" }
+          ],
+          "image": "svc-work"
+        },
+        {
+          "title": { "en": "Construction", "ru": "Строительство", "lv": "Būvniecība" },
+          "text": {
+            "en": "Vacancies for skilled workers in general construction, installation and finishing works.",
+            "ru": "Вакансии для рабочих строительных, монтажных и отделочных специальностей.",
+            "lv": "Vakances būvniecības, montāžas un apdares darbu speciālistiem."
+          },
+          "bullets": [
+            { "en": "Concrete workers", "ru": "Бетонщики", "lv": "Betonētāji" },
+            { "en": "Bricklayers", "ru": "Каменщики", "lv": "Mūrnieki" },
+            { "en": "Steel fixers", "ru": "Арматурщики", "lv": "Armatūras sējēji" },
+            { "en": "Welders", "ru": "Сварщики", "lv": "Metinātāji" },
+            { "en": "Electricians", "ru": "Электрики", "lv": "Elektriķi" },
+            { "en": "Plumbers", "ru": "Сантехники", "lv": "Santehniķi" },
+            { "en": "Facade workers", "ru": "Фасадчики", "lv": "Fasāžu montētāji" },
+            { "en": "Finishing workers", "ru": "Отделочники", "lv": "Apdares darbu speciālisti" }
+          ],
+          "image": "wv-1"
+        },
+        {
+          "title": { "en": "International transport", "ru": "Международные перевозки", "lv": "Starptautiskie pārvadājumi" },
+          "text": {
+            "en": "Urgent hiring of international freight drivers for Latvia. The employer offers legal employment, a competitive salary and help with the necessary documents.",
+            "ru": "Открыт срочный набор водителей международных грузоперевозок в Латвию. Работодатель предлагает официальное трудоустройство, конкурентную заработную плату и помощь в оформлении документов.",
+            "lv": "Steidzami tiek pieņemti darbā starptautisko kravu pārvadājumu vadītāji Latvijā. Darba devējs piedāvā legālu nodarbinātību, konkurētspējīgu atalgojumu un palīdzību nepieciešamo dokumentu noformēšanā."
+          },
+          "meta": { "en": "Urgent: CE drivers for Latvia", "ru": "Срочно: водители CE в Латвию", "lv": "Steidzami: CE vadītāji Latvijā" },
+          "bullets": [
+            { "en": "Category CE", "ru": "Категория CE", "lv": "CE kategorija" },
+            { "en": "Legal employment", "ru": "Официальное трудоустройство", "lv": "Legāla nodarbinātība" },
+            { "en": "Competitive salary", "ru": "Конкурентная зарплата", "lv": "Konkurētspējīgs atalgojums" },
+            { "en": "Help with documents", "ru": "Помощь с документами", "lv": "Palīdzība ar dokumentiem" }
+          ],
+          "image": "row-work"
+        },
+        {
+          "title": { "en": "Qualified specialists", "ru": "Квалифицированные специалисты", "lv": "Kvalificēti speciālisti" },
+          "text": {
+            "en": "We also support document processing for specialists in various professions, depending on current employer requests.",
+            "ru": "Мы также сопровождаем оформление документов для специалистов различных профессий в зависимости от текущих запросов работодателей.",
+            "lv": "Mēs pavadām arī dokumentu noformēšanu dažādu profesiju speciālistiem atbilstoši darba devēju aktuālajiem pieprasījumiem."
+          },
+          "bullets": [
+            { "en": "Various professions", "ru": "Различные профессии", "lv": "Dažādas profesijas" },
+            { "en": "Based on employer requests", "ru": "По запросам работодателей", "lv": "Pēc darba devēju pieprasījuma" }
+          ],
+          "image": "why-1"
+        }
+      ],
+      "cta": { "label": { "en": "Ask about current vacancies", "ru": "Узнать об актуальных вакансиях", "lv": "Uzzināt par aktuālajām vakancēm" }, "href": "contact/" }
+    },
+    {
+      "type": "steps",
+      "id": "steps",
+      "chip": { "en": "Process", "ru": "Процесс", "lv": "Process" },
+      "title": { "en": "How employment works", "ru": "Как проходит трудоустройство", "lv": "Kā notiek nodarbinātības process" },
+      "image": "process-wide",
+      "items": [
+        { "icon": "chat", "title": { "en": "Consultation", "ru": "Консультация", "lv": "Konsultācija" }, "text": { "en": "We review your experience, education, documents and wishes.", "ru": "Изучаем ваш опыт, образование, документы и пожелания.", "lv": "Izvērtējam jūsu pieredzi, izglītību, dokumentus un vēlmes." } },
+        { "icon": "search", "title": { "en": "Vacancy matching", "ru": "Подбор вакансии", "lv": "Vakances piemeklēšana" }, "text": { "en": "We select employer offers that best match your profile.", "ru": "Подбираем предложения, наиболее соответствующие вашему профилю.", "lv": "Atlasām piedāvājumus, kas vislabāk atbilst jūsu profilam." } },
+        { "icon": "handshake", "title": { "en": "Agreeing terms", "ru": "Согласование условий", "lv": "Nosacījumu saskaņošana" }, "text": { "en": "We explain pay, schedule, duties and employer requirements.", "ru": "Разъясняем зарплату, график, обязанности и требования.", "lv": "Izskaidrojam atalgojumu, grafiku, pienākumus un prasības." } },
+        { "icon": "document", "title": { "en": "Document preparation", "ru": "Подготовка документов", "lv": "Dokumentu sagatavošana" }, "text": { "en": "We help prepare documents for your work visa or permit.", "ru": "Помогаем подготовить документы для визы или разрешения.", "lv": "Palīdzam sagatavot dokumentus vīzai vai darba atļaujai." } },
+        { "icon": "flag", "title": { "en": "Application", "ru": "Подача документов", "lv": "Dokumentu iesniegšana" }, "text": { "en": "We guide the process according to the country's requirements.", "ru": "Сопровождаем оформление по требованиям конкретной страны.", "lv": "Pavadām procesu atbilstoši konkrētās valsts prasībām." } },
+        { "icon": "briefcase", "title": { "en": "Starting work", "ru": "Начало работы", "lv": "Darba sākums" }, "text": { "en": "With documents in hand, you start legal work.", "ru": "После получения документов вы приступаете к официальной работе.", "lv": "Saņemot dokumentus, jūs sākat legālu darbu." } }
+      ],
+      "cta": { "label": { "en": "Book a consultation", "ru": "Записаться на консультацию", "lv": "Pieteikties konsultācijai" }, "href": "contact/" }
+    },
+    {
+      "type": "checklist",
+      "chip": { "en": "Our support", "ru": "Сопровождение", "lv": "Mūsu atbalsts" },
+      "title": { "en": "What Amber Key support includes", "ru": "Что входит в сопровождение Amber Key", "lv": "Ko ietver Amber Key atbalsts" },
+      "lead": { "en": "We provide comprehensive support:", "ru": "Мы оказываем комплексную поддержку:", "lv": "Mēs nodrošinām visaptverošu atbalstu:" },
+      "items": [
+        { "en": "Employer selection", "ru": "Подбор работодателя", "lv": "Darba devēja piemeklēšana" },
+        { "en": "Advice on the requirements of each country", "ru": "Консультации по требованиям конкретной страны", "lv": "Konsultācijas par konkrētās valsts prasībām" },
+        { "en": "Document review", "ru": "Проверка документов", "lv": "Dokumentu pārbaude" },
+        { "en": "Help preparing the required applications", "ru": "Помощь при подготовке необходимых заявлений", "lv": "Palīdzība nepieciešamo iesniegumu sagatavošanā" },
+        { "en": "Support with work visa processing", "ru": "Сопровождение оформления рабочей визы", "lv": "Darba vīzas noformēšanas pavadīšana" },
+        { "en": "Pre-departure consultations", "ru": "Консультации перед выездом", "lv": "Konsultācijas pirms izbraukšanas" },
+        { "en": "Support after arrival", "ru": "Поддержка после приезда", "lv": "Atbalsts pēc ierašanās" }
+      ],
+      "image": "tab-families",
+      "reverse": false
+    },
+    {
+      "type": "checklist",
+      "chip": { "en": "Documents", "ru": "Документы", "lv": "Dokumenti" },
+      "title": { "en": "Documents usually required", "ru": "Какие документы обычно необходимы", "lv": "Parasti nepieciešamie dokumenti" },
+      "lead": {
+        "en": "The list of documents depends on the country and the employer. Most often you will need:",
+        "ru": "Перечень документов зависит от страны и работодателя. Чаще всего необходимы:",
+        "lv": "Dokumentu saraksts ir atkarīgs no valsts un darba devēja. Visbiežāk nepieciešami:"
+      },
+      "items": [
+        { "en": "Valid international passport", "ru": "Действующий заграничный паспорт", "lv": "Derīga ārzemju pase" },
+        { "en": "Photographs", "ru": "Фотографии", "lv": "Fotogrāfijas" },
+        { "en": "Education documents (if required)", "ru": "Документы об образовании (при необходимости)", "lv": "Izglītības dokumenti (ja nepieciešams)" },
+        { "en": "Proof of professional experience (for certain professions)", "ru": "Подтверждение профессионального опыта (для отдельных специальностей)", "lv": "Profesionālās pieredzes apliecinājums (atsevišķām specialitātēm)" },
+        { "en": "Criminal record certificate (if required)", "ru": "Справка об отсутствии судимости (если требуется)", "lv": "Izziņa par sodāmības neesamību (ja nepieciešams)" },
+        { "en": "Medical documents (if required)", "ru": "Медицинские документы (при необходимости)", "lv": "Medicīniskie dokumenti (ja nepieciešams)" },
+        { "en": "Other documents required by the host country's legislation", "ru": "Иные документы, предусмотренные законодательством принимающей страны", "lv": "Citi uzņemošās valsts tiesību aktos paredzētie dokumenti" }
+      ],
+      "note": {
+        "en": "Before the process begins, we provide every client with a personal list of required documents.",
+        "ru": "Перед началом оформления мы предоставляем каждому клиенту индивидуальный список необходимых документов.",
+        "lv": "Pirms noformēšanas sākuma katram klientam sniedzam individuālu nepieciešamo dokumentu sarakstu."
+      },
+      "reverse": true
+    },
+    {
+      "type": "grid",
+      "chip": { "en": "Why Amber Key", "ru": "Почему Amber Key", "lv": "Kāpēc Amber Key" },
+      "title": { "en": "Why choose Amber Key", "ru": "Почему выбирают Amber Key", "lv": "Kāpēc izvēlēties Amber Key" },
+      "items": [
+        {
+          "icon": "star",
+          "title": { "en": "8+ years of international practice", "ru": "Более 8 лет международной практики", "lv": "Vairāk nekā 8 gadu starptautiska prakse" },
+          "text": { "en": "We support clients seeking employment in various European countries.", "ru": "Мы сопровождаем клиентов при трудоустройстве в различных странах Европы.", "lv": "Mēs pavadām klientus nodarbinātības procesā dažādās Eiropas valstīs." }
+        },
+        {
+          "icon": "shield",
+          "title": { "en": "Only legitimate employers", "ru": "Работа только с официальными работодателями", "lv": "Tikai oficiāli darba devēji" },
+          "text": { "en": "We work with employers and partners committed to long-term cooperation and legal hiring of staff.", "ru": "Мы сотрудничаем с работодателями и партнерами, заинтересованными в долгосрочном сотрудничестве и официальном оформлении сотрудников.", "lv": "Sadarbojamies ar darba devējiem un partneriem, kuri ir ieinteresēti ilgtermiņa sadarbībā un oficiālā darbinieku noformēšanā." }
+        },
+        {
+          "icon": "compass",
+          "title": { "en": "Individual vacancy matching", "ru": "Индивидуальный подбор вакансий", "lv": "Individuāla vakanču piemeklēšana" },
+          "text": { "en": "Every candidate is considered individually, taking into account experience, qualifications and wishes.", "ru": "Каждый кандидат рассматривается отдельно с учетом опыта, квалификации и пожеланий.", "lv": "Katrs kandidāts tiek izvērtēts individuāli, ņemot vērā pieredzi, kvalifikāciju un vēlmes." }
+        },
+        {
+          "icon": "layers",
+          "title": { "en": "End-to-end support", "ru": "Комплексное сопровождение", "lv": "Visaptverošs atbalsts" },
+          "text": { "en": "We stay with the client at every stage of document processing.", "ru": "Мы сопровождаем клиента на всех этапах оформления документов.", "lv": "Mēs pavadām klientu visos dokumentu noformēšanas posmos." }
+        },
+        {
+          "icon": "clock",
+          "title": { "en": "Up-to-date information", "ru": "Актуальная информация", "lv": "Aktuāla informācija" },
+          "text": { "en": "Employer requirements and migration law change regularly, so we keep our information current and offer only relevant solutions.", "ru": "Требования работодателей и миграционного законодательства регулярно меняются, поэтому мы постоянно обновляем информацию и предлагаем только актуальные решения.", "lv": "Darba devēju prasības un migrācijas tiesību akti regulāri mainās, tāpēc mēs pastāvīgi atjaunojam informāciju un piedāvājam tikai aktuālus risinājumus." }
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "chip": { "en": "Good to know", "ru": "Важно знать", "lv": "Svarīgi zināt" },
+      "title": { "en": "The labour market is constantly changing", "ru": "Рынок труда постоянно меняется", "lv": "Darba tirgus pastāvīgi mainās" },
+      "paragraphs": [
+        {
+          "en": "Some vacancies close within a few days, while new ones appear every day. That is why this website shows a general overview of employment sectors.",
+          "ru": "Одни вакансии закрываются в течение нескольких дней, другие появляются ежедневно. Поэтому на сайте представлен общий перечень направлений трудоустройства.",
+          "lv": "Dažas vakances tiek slēgtas dažu dienu laikā, citas parādās katru dienu. Tāpēc vietnē ir sniegts vispārīgs nodarbinātības jomu pārskats."
+        },
+        {
+          "en": "For details on current vacancies, salary levels, employer requirements and processing times, we recommend an individual consultation — it lets us find the job that best fits your qualifications and goals.",
+          "ru": "Для получения информации об актуальных вакансиях, уровне заработной платы, требованиях работодателей и сроках оформления рекомендуем обратиться за индивидуальной консультацией. Это позволяет подобрать наиболее подходящую работу именно под вашу квалификацию и цели.",
+          "lv": "Lai uzzinātu par aktuālajām vakancēm, atalgojuma līmeni, darba devēju prasībām un noformēšanas termiņiem, iesakām individuālu konsultāciju — tā ļauj piemeklēt darbu, kas vislabāk atbilst tieši jūsu kvalifikācijai un mērķiem."
+        },
+        {
+          "en": "A work visa application involves preparing a large number of documents and meeting the deadlines and legal requirements of the specific country.",
+          "ru": "Оформление рабочей визы включает подготовку большого количества документов, соблюдение сроков и требований законодательства конкретной страны.",
+          "lv": "Darba vīzas noformēšana ietver liela dokumentu apjoma sagatavošanu, termiņu un konkrētās valsts tiesību aktu prasību ievērošanu."
+        }
+      ],
+      "highlight": {
+        "en": "A preliminary consultation helps you find the best employment option and avoid common mistakes when preparing documents.",
+        "ru": "Предварительная консультация помогает определить оптимальный вариант трудоустройства и избежать распространенных ошибок при оформлении документов.",
+        "lv": "Iepriekšēja konsultācija palīdz noteikt optimālo nodarbinātības variantu un izvairīties no izplatītām kļūdām dokumentu noformēšanā."
+      }
+    },
+    {
+      "type": "cta",
+      "title": { "en": "Start working in Europe today", "ru": "Начните работать в Европе уже сегодня", "lv": "Sāciet strādāt Eiropā jau šodien" },
+      "text": {
+        "en": "Planning legal employment in a European country? Amber Key specialists will help you find a suitable vacancy, prepare the necessary documents and guide you through the process. Contact us for a personal consultation and the latest employer offers.",
+        "ru": "Если вы планируете официальное трудоустройство в одной из европейских стран, специалисты Amber Key помогут подобрать подходящую вакансию, подготовить необходимые документы и сопроводить процесс оформления. Свяжитесь с нами, чтобы получить персональную консультацию и узнать об актуальных предложениях работодателей.",
+        "lv": "Plānojat legālu nodarbinātību kādā no Eiropas valstīm? Amber Key speciālisti palīdzēs piemeklēt piemērotu vakanci, sagatavot nepieciešamos dokumentus un pavadīs noformēšanas procesu. Sazinieties ar mums, lai saņemtu personīgu konsultāciju un uzzinātu par aktuālajiem darba devēju piedāvājumiem."
+      },
+      "button": { "en": "Get a personal consultation", "ru": "Получить персональную консультацию", "lv": "Saņemt personīgu konsultāciju" }
+    }
+  ]
+}

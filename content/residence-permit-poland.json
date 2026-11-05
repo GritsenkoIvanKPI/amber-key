@@ -1,0 +1,282 @@
+{
+  "id": "residence-permit-poland",
+  "path": "residence-permit-poland/",
+  "nav": { "en": "Residence permit — Poland", "ru": "ВНЖ Польши", "lv": "Uzturēšanās atļauja — Polija" },
+  "seo": {
+    "title": {
+      "en": "Residence Permit in Poland through Business | Company Registration in Poland | Amber Key",
+      "ru": "ВНЖ Польши через открытие бизнеса | Регистрация компании в Польше | Amber Key",
+      "lv": "Uzturēšanās atļauja Polijā caur biznesu | Uzņēmuma reģistrācija Polijā | Amber Key"
+    },
+    "description": {
+      "en": "Obtain a Polish residence permit through company registration. Full support with setting up your business, preparing documents and applying for a residence permit. More than 8 years of international practice.",
+      "ru": "Получение ВНЖ Польши через регистрацию компании. Полное сопровождение открытия бизнеса, подготовки документов и оформления вида на жительство. Более 8 лет международной практики.",
+      "lv": "Uzturēšanās atļauja Polijā caur uzņēmuma reģistrāciju. Pilns atbalsts biznesa dibināšanā, dokumentu sagatavošanā un uzturēšanās atļaujas noformēšanā. Vairāk nekā 8 gadu starptautiska prakse."
+    },
+    "image": "pl-hero"
+  },
+  "blocks": [
+    {
+      "type": "hero",
+      "title": {
+        "en": "Residence permit in Poland through business registration",
+        "ru": "Вид на жительство в Польше через регистрацию бизнеса",
+        "lv": "Uzturēšanās atļauja Polijā caur biznesa reģistrāciju"
+      },
+      "lead": {
+        "en": "Open a company in Poland and grow your business in the European Union.",
+        "ru": "Откройте компанию в Польше и развивайте бизнес в Европейском Союзе.",
+        "lv": "Dibiniet uzņēmumu Polijā un attīstiet biznesu Eiropas Savienībā."
+      },
+      "image": "pl-hero",
+      "tags": [
+        { "label": { "en": "Business in the EU", "ru": "Бизнес в ЕС", "lv": "Bizness ES" }, "href": "contact/" },
+        { "label": { "en": "Schengen travel", "ru": "Поездки по Шенгену", "lv": "Ceļošana Šengenas zonā" } },
+        { "label": { "en": "Family documents", "ru": "Документы для семьи", "lv": "Dokumenti ģimenei" } },
+        { "label": { "en": "Status renewal", "ru": "Продление статуса", "lv": "Statusa pagarināšana" } }
+      ],
+      "cta": { "label": { "en": "Get a consultation", "ru": "Получить консультацию", "lv": "Saņemt konsultāciju" }, "href": "contact/" }
+    },
+    {
+      "type": "intro",
+      "chip": { "en": "About the programme", "ru": "О программе", "lv": "Par programmu" },
+      "text": {
+        "en": "Poland is one of the most dynamic economies in the European Union. Registering a company can become **a legal basis for a temporary residence permit**, provided the requirements of Polish law are met.",
+        "ru": "Польша — одна из самых динамично развивающихся экономик Европейского Союза. Регистрация компании может стать **законным основанием для оформления временного ВНЖ** при соблюдении требований польского законодательства.",
+        "lv": "Polija ir viena no visstraujāk augošajām ekonomikām Eiropas Savienībā. Uzņēmuma reģistrācija var kļūt par **likumīgu pamatu pagaidu uzturēšanās atļaujai**, ja tiek ievērotas Polijas tiesību aktu prasības."
+      },
+      "label": { "en": "Residence in Poland", "ru": "ВНЖ Польши", "lv": "Uzturēšanās Polijā" },
+      "stats": [
+        { "value": "8+", "label": { "en": "Years of international practice", "ru": "Лет международной практики", "lv": "Gadi starptautiskā praksē" } },
+        { "value": "6", "label": { "en": "Stages of the process", "ru": "Этапов оформления", "lv": "Procesa posmi" } },
+        { "value": { "en": "EU", "ru": "ЕС", "lv": "ES" }, "label": { "en": "Access to the European market", "ru": "Доступ к европейскому рынку", "lv": "Piekļuve Eiropas tirgum" } }
+      ],
+      "paragraphs": [
+        {
+          "en": "Poland attracts entrepreneurs with its advantageous location, access to the European market and favourable conditions for doing business.",
+          "ru": "Польша привлекает предпринимателей благодаря выгодному расположению, доступу к европейскому рынку и благоприятным условиям для ведения бизнеса.",
+          "lv": "Polija piesaista uzņēmējus ar izdevīgo atrašanās vietu, piekļuvi Eiropas tirgum un labvēlīgiem nosacījumiem uzņēmējdarbībai."
+        },
+        {
+          "en": "For more than 8 years Amber Key has supported clients in international business and immigration — helping them register a company, prepare documents and organise the process as comfortably as possible.",
+          "ru": "Компания Amber Key более 8 лет сопровождает клиентов в вопросах международного бизнеса и иммиграции, помогая зарегистрировать компанию, подготовить документы и организовать процесс оформления максимально комфортно.",
+          "lv": "Amber Key jau vairāk nekā 8 gadus pavada klientus starptautiskā biznesa un imigrācijas jautājumos, palīdzot reģistrēt uzņēmumu, sagatavot dokumentus un organizēt procesu pēc iespējas ērtāk."
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "chip": { "en": "Advantages", "ru": "Преимущества", "lv": "Priekšrocības" },
+      "title": { "en": "Advantages of a Polish residence permit", "ru": "Преимущества получения ВНЖ в Польше", "lv": "Uzturēšanās atļaujas Polijā priekšrocības" },
+      "lead": {
+        "en": "A temporary residence permit opens up a range of opportunities.",
+        "ru": "Получение временного вида на жительство предоставляет ряд возможностей.",
+        "lv": "Pagaidu uzturēšanās atļauja paver virkni iespēju."
+      },
+      "items": [
+        {
+          "icon": "home",
+          "title": { "en": "Legal residence", "ru": "Законное проживание", "lv": "Likumīga uzturēšanās" },
+          "text": { "en": "Live in Poland on a lawful basis.", "ru": "Законное проживание на территории Польши.", "lv": "Likumīga dzīvošana Polijā." }
+        },
+        {
+          "icon": "briefcase",
+          "title": { "en": "Business activity", "ru": "Предпринимательская деятельность", "lv": "Uzņēmējdarbība" },
+          "text": { "en": "Run your own entrepreneurial activity in Poland.", "ru": "Ведение собственной предпринимательской деятельности.", "lv": "Iespēja veikt savu uzņēmējdarbību." }
+        },
+        {
+          "icon": "chart",
+          "title": { "en": "Growth in the EU", "ru": "Развитие бизнеса в ЕС", "lv": "Izaugsme ES" },
+          "text": { "en": "Develop your business across the territory of the European Union.", "ru": "Развитие бизнеса на территории Европейского Союза.", "lv": "Biznesa attīstība Eiropas Savienības teritorijā." }
+        },
+        {
+          "icon": "plane",
+          "title": { "en": "Schengen travel", "ru": "Поездки по Шенгену", "lv": "Ceļošana Šengenas zonā" },
+          "text": { "en": "Travel freely across the countries of the Schengen Area.", "ru": "Свободные поездки по странам Шенгенской зоны.", "lv": "Brīva ceļošana pa Šengenas zonas valstīm." }
+        },
+        {
+          "icon": "family",
+          "title": { "en": "Family members", "ru": "Члены семьи", "lv": "Ģimenes locekļi" },
+          "text": { "en": "Documents can be arranged for family members where the relevant grounds exist.", "ru": "Возможность оформления документов для членов семьи при наличии соответствующих оснований.", "lv": "Iespēja noformēt dokumentus ģimenes locekļiem, ja ir attiecīgs pamats." }
+        },
+        {
+          "icon": "clock",
+          "title": { "en": "Status renewal", "ru": "Продление статуса", "lv": "Statusa pagarināšana" },
+          "text": { "en": "The prospect of further renewal, provided legal requirements are met.", "ru": "Перспектива дальнейшего продления статуса при соблюдении требований законодательства.", "lv": "Iespēja turpmāk pagarināt statusu, ievērojot tiesību aktu prasības." }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "chip": { "en": "Who it is for", "ru": "Для кого", "lv": "Kam tā paredzēta" },
+      "title": { "en": "Who the programme is for", "ru": "Кому подходит программа", "lv": "Kam piemērota programma" },
+      "groups": [
+        {
+          "title": { "en": "The programme may suit", "ru": "Программа может быть интересна", "lv": "Programma var interesēt" },
+          "items": [
+            { "en": "Entrepreneurs", "ru": "Предпринимателям", "lv": "Uzņēmējus" },
+            { "en": "Online store owners", "ru": "Владельцам интернет-магазинов", "lv": "Interneta veikalu īpašniekus" },
+            { "en": "Export and import companies", "ru": "Экспортным и импортным компаниям", "lv": "Eksporta un importa uzņēmumus" },
+            { "en": "IT companies", "ru": "IT-компаниям", "lv": "IT uzņēmumus" },
+            { "en": "Consultants", "ru": "Консультантам", "lv": "Konsultantus" },
+            { "en": "Logistics companies", "ru": "Логистическим компаниям", "lv": "Loģistikas uzņēmumus" },
+            { "en": "Manufacturing businesses", "ru": "Производственным предприятиям", "lv": "Ražošanas uzņēmumus" },
+            { "en": "Investors", "ru": "Инвесторам", "lv": "Investorus" }
+          ]
+        },
+        {
+          "title": { "en": "Why entrepreneurs choose Poland", "ru": "Почему предприниматели выбирают Польшу", "lv": "Kāpēc uzņēmēji izvēlas Poliju" },
+          "items": [
+            { "en": "Large domestic market", "ru": "Крупный внутренний рынок", "lv": "Liels iekšējais tirgus" },
+            { "en": "Stable economy", "ru": "Стабильная экономика", "lv": "Stabila ekonomika" },
+            { "en": "Advantageous geographic location", "ru": "Выгодное географическое расположение", "lv": "Izdevīga ģeogrāfiskā atrašanās vieta" },
+            { "en": "Access to European clients", "ru": "Доступ к европейским клиентам", "lv": "Piekļuve Eiropas klientiem" },
+            { "en": "Modern banking and payment solutions", "ru": "Современные банковские и платежные решения", "lv": "Mūsdienīgi banku un maksājumu risinājumi" },
+            { "en": "Broad opportunities for international trade", "ru": "Широкие возможности для международной торговли", "lv": "Plašas starptautiskās tirdzniecības iespējas" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "chip": { "en": "Our support", "ru": "Сопровождение", "lv": "Mūsu atbalsts" },
+      "title": { "en": "What Amber Key support includes", "ru": "Что входит в сопровождение Amber Key", "lv": "Ko ietver Amber Key atbalsts" },
+      "lead": { "en": "We provide comprehensive support.", "ru": "Мы оказываем комплексное сопровождение.", "lv": "Mēs nodrošinām visaptverošu atbalstu." },
+      "items": [
+        { "en": "Preliminary analysis of your situation", "ru": "Предварительный анализ ситуации", "lv": "Situācijas sākotnējā analīze" },
+        { "en": "Selection of the optimal application strategy", "ru": "Подбор оптимальной стратегии оформления", "lv": "Optimālās noformēšanas stratēģijas izvēle" },
+        { "en": "Registration of a Polish company", "ru": "Регистрация польской компании", "lv": "Polijas uzņēmuma reģistrācija" },
+        { "en": "Preparation of corporate documents", "ru": "Подготовка корпоративных документов", "lv": "Korporatīvo dokumentu sagatavošana" },
+        { "en": "Support with the required registrations", "ru": "Сопровождение оформления необходимых регистраций", "lv": "Atbalsts nepieciešamo reģistrāciju noformēšanā" },
+        { "en": "Help preparing the immigration document package", "ru": "Помощь в подготовке миграционного пакета документов", "lv": "Palīdzība migrācijas dokumentu paketes sagatavošanā" },
+        { "en": "Support with submitting documents", "ru": "Сопровождение подачи документов", "lv": "Atbalsts dokumentu iesniegšanā" },
+        { "en": "Advice on running your business going forward", "ru": "Консультации по дальнейшему ведению бизнеса", "lv": "Konsultācijas par turpmāko biznesa vadību" }
+      ],
+      "image": "pl-1",
+      "reverse": false
+    },
+    {
+      "type": "checklist",
+      "chip": { "en": "Documents", "ru": "Документы", "lv": "Dokumenti" },
+      "title": { "en": "Required documents", "ru": "Необходимые документы", "lv": "Nepieciešamie dokumenti" },
+      "lead": {
+        "en": "The list of documents is determined individually. As a rule, you will need:",
+        "ru": "Перечень документов определяется индивидуально. Как правило, необходимы:",
+        "lv": "Dokumentu saraksts tiek noteikts individuāli. Parasti nepieciešams:"
+      },
+      "items": [
+        { "en": "Passport", "ru": "Заграничный паспорт", "lv": "Pase" },
+        { "en": "Photographs", "ru": "Фотографии", "lv": "Fotogrāfijas" },
+        { "en": "Founders' documents", "ru": "Документы учредителей", "lv": "Dibinātāju dokumenti" },
+        { "en": "Information about the planned business", "ru": "Сведения о будущем бизнесе", "lv": "Informācija par plānoto biznesu" },
+        { "en": "Proof of financial means", "ru": "Подтверждение финансовых возможностей", "lv": "Finanšu līdzekļu apliecinājums" },
+        { "en": "Company documents", "ru": "Документы компании", "lv": "Uzņēmuma dokumenti" },
+        { "en": "Documents required by Polish law", "ru": "Документы, предусмотренные польским законодательством", "lv": "Polijas tiesību aktos paredzētie dokumenti" }
+      ],
+      "note": {
+        "en": "Before we begin, we provide every client with a personal list of the required documents.",
+        "ru": "Перед началом работы мы предоставляем каждому клиенту персональный список необходимых документов.",
+        "lv": "Pirms darba sākšanas mēs katram klientam sagatavojam personīgu nepieciešamo dokumentu sarakstu."
+      },
+      "reverse": true
+    },
+    {
+      "type": "statement",
+      "chip": { "en": "Our approach", "ru": "Наш подход", "lv": "Mūsu pieeja" },
+      "title": { "en": "Individual approach to every project", "ru": "Индивидуальный подход к каждому проекту", "lv": "Individuāla pieeja katram projektam" },
+      "paragraphs": [
+        {
+          "en": "Obtaining a residence permit through business activity requires not only registering a company but also planning the business correctly. When preparing a project, we analyse:",
+          "ru": "Получение вида на жительство через предпринимательскую деятельность требует не только регистрации компании, но и правильного планирования бизнеса. При подготовке проекта мы анализируем:",
+          "lv": "Uzturēšanās atļaujas saņemšanai caur uzņēmējdarbību nepieciešama ne tikai uzņēmuma reģistrācija, bet arī pareiza biznesa plānošana. Sagatavojot projektu, mēs analizējam:"
+        }
+      ],
+      "bullets": [
+        { "en": "The client's goals", "ru": "Цели клиента", "lv": "Klienta mērķus" },
+        { "en": "The company's intended activity", "ru": "Предполагаемую деятельность компании", "lv": "Uzņēmuma plānoto darbību" },
+        { "en": "Corporate structure", "ru": "Корпоративную структуру", "lv": "Korporatīvo struktūru" },
+        { "en": "Financial model", "ru": "Финансовую модель", "lv": "Finanšu modeli" },
+        { "en": "Prospects for further business growth", "ru": "Перспективы дальнейшего развития бизнеса", "lv": "Biznesa turpmākās attīstības perspektīvas" }
+      ],
+      "highlight": {
+        "en": "This approach lets us account for legal requirements in advance and minimise possible risks.",
+        "ru": "Такой подход позволяет заранее учитывать требования законодательства и минимизировать возможные риски.",
+        "lv": "Šāda pieeja ļauj jau iepriekš ņemt vērā tiesību aktu prasības un samazināt iespējamos riskus."
+      }
+    },
+    {
+      "type": "grid",
+      "chip": { "en": "Why Amber Key", "ru": "Почему Amber Key", "lv": "Kāpēc Amber Key" },
+      "title": { "en": "Why choose Amber Key", "ru": "Почему выбирают Amber Key", "lv": "Kāpēc izvēlēties Amber Key" },
+      "items": [
+        {
+          "icon": "star",
+          "title": { "en": "8+ years of experience", "ru": "Более 8 лет опыта", "lv": "Vairāk nekā 8 gadu pieredze" },
+          "text": { "en": "We support international projects of varying complexity.", "ru": "Мы сопровождаем международные проекты различной сложности.", "lv": "Mēs pavadām dažādas sarežģītības starptautiskus projektus." }
+        },
+        {
+          "icon": "layers",
+          "title": { "en": "Comprehensive approach", "ru": "Комплексный подход", "lv": "Visaptveroša pieeja" },
+          "text": { "en": "We help not only with company registration but also with documents for the residence permit.", "ru": "Поддержка не только при регистрации компании, но и при подготовке документов для ВНЖ.", "lv": "Atbalsts ne tikai uzņēmuma reģistrācijā, bet arī dokumentu sagatavošanā uzturēšanās atļaujai." }
+        },
+        {
+          "icon": "globe",
+          "title": { "en": "International expertise", "ru": "Международная экспертиза", "lv": "Starptautiska ekspertīze" },
+          "text": { "en": "We work with several European jurisdictions and help you choose the right country for your goals.", "ru": "Работаем с несколькими европейскими юрисдикциями и помогаем выбрать подходящую страну для ваших задач.", "lv": "Strādājam ar vairākām Eiropas jurisdikcijām un palīdzam izvēlēties jūsu mērķiem piemērotāko valsti." }
+        },
+        {
+          "icon": "scale",
+          "title": { "en": "Legality and transparency", "ru": "Законность и прозрачность", "lv": "Likumība un caurspīdīgums" },
+          "text": { "en": "All solutions are developed strictly within current legislation.", "ru": "Все решения разрабатываются исключительно в рамках действующего законодательства.", "lv": "Visi risinājumi tiek izstrādāti tikai spēkā esošo tiesību aktu ietvaros." }
+        },
+        {
+          "icon": "compass",
+          "title": { "en": "Individual solutions", "ru": "Индивидуальные решения", "lv": "Individuāli risinājumi" },
+          "text": { "en": "No universal schemes — every strategy is built around the client's specific situation.", "ru": "Мы не используем универсальные схемы — каждая стратегия учитывает конкретную ситуацию клиента.", "lv": "Mēs neizmantojam universālas shēmas — katra stratēģija balstās uz klienta konkrēto situāciju." }
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "chip": { "en": "Process", "ru": "Этапы", "lv": "Process" },
+      "title": { "en": "How the process works", "ru": "Этапы оформления", "lv": "Kā notiek process" },
+      "image": "pl-2",
+      "items": [
+        { "icon": "chat", "title": { "en": "Initial consultation", "ru": "Первичная консультация", "lv": "Sākotnējā konsultācija" }, "text": { "en": "We study your situation and identify possible options.", "ru": "Изучаем вашу ситуацию и определяем возможные варианты.", "lv": "Izpētām jūsu situāciju un nosakām iespējamos variantus." } },
+        { "icon": "compass", "title": { "en": "Strategy", "ru": "Разработка стратегии", "lv": "Stratēģija" }, "text": { "en": "We choose the best model for business and residence.", "ru": "Подбираем подходящую модель регистрации бизнеса и ВНЖ.", "lv": "Izvēlamies piemērotāko biznesa un uzturēšanās modeli." } },
+        { "icon": "building", "title": { "en": "Company registration", "ru": "Регистрация компании", "lv": "Uzņēmuma reģistrācija" }, "text": { "en": "We prepare documents and support the entity's registration.", "ru": "Готовим документы и сопровождаем регистрацию юрлица.", "lv": "Sagatavojam dokumentus un pavadām juridiskās personas reģistrāciju." } },
+        { "icon": "document", "title": { "en": "Immigration package", "ru": "Миграционный пакет", "lv": "Migrācijas pakete" }, "text": { "en": "We help collect the documents for your application.", "ru": "Помогаем собрать документы для подачи заявления.", "lv": "Palīdzam savākt dokumentus pieteikuma iesniegšanai." } },
+        { "icon": "flag", "title": { "en": "Submission", "ru": "Подача документов", "lv": "Iesniegšana" }, "text": { "en": "We support you at every stage of the procedure.", "ru": "Сопровождаем клиента на каждом этапе процедуры.", "lv": "Pavadām klientu katrā procedūras posmā." } },
+        { "icon": "key", "title": { "en": "Residence permit", "ru": "Получение ВНЖ", "lv": "Uzturēšanās atļauja" }, "text": { "en": "We keep advising on business and status renewal.", "ru": "Продолжаем консультировать по бизнесу и продлению статуса.", "lv": "Turpinām konsultēt par biznesu un statusa pagarināšanu." } }
+      ],
+      "cta": { "label": { "en": "Book a consultation", "ru": "Записаться на консультацию", "lv": "Pieteikties konsultācijai" }, "href": "contact/" }
+    },
+    {
+      "type": "statement",
+      "chip": { "en": "Expert support", "ru": "Экспертная поддержка", "lv": "Ekspertu atbalsts" },
+      "title": { "en": "Why it matters to work with specialists", "ru": "Почему важно обратиться к специалистам", "lv": "Kāpēc svarīgi uzticēties speciālistiem" },
+      "paragraphs": [
+        {
+          "en": "Polish immigration law sets specific requirements for business activity, for proving the company's economic activity and for other aspects of the application.",
+          "ru": "Польское миграционное законодательство предусматривает определенные требования к предпринимательской деятельности, подтверждению экономической активности компании и другим аспектам оформления.",
+          "lv": "Polijas migrācijas tiesību akti nosaka konkrētas prasības uzņēmējdarbībai, uzņēmuma saimnieciskās darbības apliecināšanai un citiem noformēšanas aspektiem."
+        },
+        {
+          "en": "Careful document preparation and the right strategy significantly increase the efficiency of the process and help avoid common mistakes.",
+          "ru": "Грамотная подготовка документов и правильно выбранная стратегия значительно повышают эффективность процесса и позволяют избежать распространенных ошибок.",
+          "lv": "Rūpīga dokumentu sagatavošana un pareizi izvēlēta stratēģija būtiski paaugstina procesa efektivitāti un palīdz izvairīties no izplatītām kļūdām."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": { "en": "Get a personal consultation", "ru": "Получите персональную консультацию", "lv": "Saņemiet personīgu konsultāciju" },
+      "text": {
+        "en": "Considering opening a business in Poland and obtaining a residence permit? Amber Key specialists will help you find the optimal solution, prepare the necessary documents and provide end-to-end support at every stage. Contact us to start your project in Poland.",
+        "ru": "Если вы рассматриваете возможность открытия бизнеса в Польше и оформления вида на жительство, специалисты Amber Key помогут подобрать оптимальное решение, подготовить необходимые документы и обеспечить комплексное сопровождение на всех этапах. Свяжитесь с нами, чтобы начать реализацию своего проекта в Польше.",
+        "lv": "Apsverat iespēju atvērt biznesu Polijā un noformēt uzturēšanās atļauju? Amber Key speciālisti palīdzēs izvēlēties optimālo risinājumu, sagatavot nepieciešamos dokumentus un nodrošinās visaptverošu atbalstu visos posmos. Sazinieties ar mums, lai sāktu sava projekta īstenošanu Polijā."
+      },
+      "button": { "en": "Get a consultation", "ru": "Получить консультацию", "lv": "Saņemt konsultāciju" }
+    }
+  ]
+}

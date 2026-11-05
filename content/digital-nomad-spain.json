@@ -1,0 +1,272 @@
+{
+  "id": "digital-nomad-spain",
+  "path": "digital-nomad-spain/",
+  "nav": { "en": "Digital Nomad — Spain", "ru": "Digital Nomad — Испания", "lv": "Digital Nomad — Spānija" },
+  "seo": {
+    "title": {
+      "en": "Digital Nomad Visa in Spain | Remote Work Residence | Amber Key",
+      "ru": "Digital Nomad Visa в Испании | ВНЖ для удаленщиков | Amber Key",
+      "lv": "Digital Nomad vīza Spānijā | Attālinātais darbs | Amber Key"
+    },
+    "description": {
+      "en": "Digital Nomad Visa in Spain for remote workers and freelancers. Full support with documents and the application. Over 8 years of international practice.",
+      "ru": "Digital Nomad Visa в Испании для удаленных сотрудников и фрилансеров. Сопровождение подготовки документов и подачи. Более 8 лет международной практики.",
+      "lv": "Digital Nomad vīza Spānijā attālinātajiem darbiniekiem un ārštata speciālistiem. Pilns atbalsts dokumentiem un pieteikumam. Vairāk nekā 8 gadu pieredze."
+    },
+    "image": "es-hero"
+  },
+  "blocks": [
+    {
+      "type": "hero",
+      "title": { "en": "Digital Nomad Visa in Spain", "ru": "Digital Nomad Visa в Испании", "lv": "Digital Nomad vīza Spānijā" },
+      "lead": {
+        "en": "Live in Spain legally while continuing to work remotely for companies and clients outside the country.",
+        "ru": "Проживайте в Испании на законных основаниях и продолжайте удаленно работать на компании и клиентов за пределами страны.",
+        "lv": "Dzīvojiet Spānijā likumīgi un turpiniet attālināti strādāt uzņēmumiem un klientiem ārpus valsts."
+      },
+      "image": "es-hero",
+      "tags": [
+        { "label": { "en": "Remote work", "ru": "Удаленная работа", "lv": "Attālināts darbs" } },
+        { "label": { "en": "Residence up to 3 years", "ru": "ВНЖ до 3 лет", "lv": "Uzturēšanās līdz 3 gadiem" } },
+        { "label": { "en": "Schengen travel", "ru": "Поездки по Шенгену", "lv": "Ceļošana Šengenas zonā" } },
+        { "label": { "en": "Family relocation", "ru": "Переезд с семьей", "lv": "Pārcelšanās ar ģimeni" } }
+      ],
+      "cta": { "label": { "en": "Get a consultation", "ru": "Получить консультацию", "lv": "Saņemt konsultāciju" }, "href": "contact/" }
+    },
+    {
+      "type": "intro",
+      "chip": { "en": "About the programme", "ru": "О программе", "lv": "Par programmu" },
+      "text": {
+        "en": "Spain's Digital Nomad Visa gives remote professionals from outside the EU a **legal basis to live in Spain** while working for foreign employers or clients. Amber Key supports clients at every stage — from assessing eligibility to obtaining the decision.",
+        "ru": "Digital Nomad Visa в Испании дает специалистам из стран вне ЕС **законное основание для проживания в Испании** при удаленной работе на иностранных работодателей или клиентов. Amber Key сопровождает клиентов на всех этапах — от оценки соответствия требованиям до получения решения.",
+        "lv": "Spānijas Digital Nomad vīza sniedz attālinātajiem speciālistiem no valstīm ārpus ES **likumīgu pamatu dzīvot Spānijā**, strādājot ārvalstu darba devējiem vai klientiem. Amber Key pavada klientus katrā posmā — no atbilstības izvērtēšanas līdz lēmuma saņemšanai."
+      },
+      "label": { "en": "Spain at a glance", "ru": "Испания в цифрах", "lv": "Spānija skaitļos" },
+      "stats": [
+        { "value": "8+", "label": { "en": "Years of Amber Key practice", "ru": "Лет практики Amber Key", "lv": "Gadi Amber Key praksē" } },
+        { "value": "3", "label": { "en": "Years — maximum initial residence permit", "ru": "Года — максимальный срок первого ВНЖ", "lv": "Gadi — maksimālais pirmās atļaujas termiņš" } },
+        { "value": "200%", "label": { "en": "Of the Spanish minimum wage — income threshold", "ru": "От МРОТ Испании — минимальный доход", "lv": "No Spānijas minimālās algas — ienākumu slieksnis" } }
+      ],
+      "paragraphs": [
+        {
+          "en": "The programme was introduced by Spain's Startup Law (Law 28/2022) and is designed for employees and self-employed professionals who work mainly by digital means. You can apply for a visa at a Spanish consulate or, if you are already legally in Spain, for a residence permit directly in the country.",
+          "ru": "Программа введена испанским Законом о стартапах (Ley 28/2022) и предназначена для наемных сотрудников и самозанятых специалистов, которые работают преимущественно с использованием цифровых технологий. Оформить визу можно в консульстве Испании, а при законном пребывании в стране — подать заявление на ВНЖ непосредственно в Испании.",
+          "lv": "Programma ieviesta ar Spānijas Jaunuzņēmumu likumu (Ley 28/2022) un paredzēta darbiniekiem un pašnodarbinātajiem speciālistiem, kuri strādā galvenokārt ar digitāliem līdzekļiem. Vīzu var noformēt Spānijas konsulātā, bet, likumīgi uzturoties valstī, — pieteikties uzturēšanās atļaujai tieši Spānijā."
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "chip": { "en": "Benefits", "ru": "Преимущества", "lv": "Priekšrocības" },
+      "title": { "en": "Programme advantages", "ru": "Преимущества программы", "lv": "Programmas priekšrocības" },
+      "items": [
+        {
+          "icon": "home",
+          "title": { "en": "Legal residence in Spain", "ru": "Законное проживание в Испании", "lv": "Likumīga uzturēšanās Spānijā" },
+          "text": { "en": "A residence status that lets you live in Spain while keeping your remote job.", "ru": "Статус, позволяющий жить в Испании и сохранять удаленную работу.", "lv": "Statuss, kas ļauj dzīvot Spānijā un saglabāt attālināto darbu." }
+        },
+        {
+          "icon": "laptop",
+          "title": { "en": "Keep your current work", "ru": "Сохранение текущей работы", "lv": "Esošā darba saglabāšana" },
+          "text": { "en": "Continue working for your foreign employer or international clients.", "ru": "Продолжайте работать на иностранного работодателя или международных клиентов.", "lv": "Turpiniet strādāt ārvalstu darba devējam vai starptautiskiem klientiem." }
+        },
+        {
+          "icon": "plane",
+          "title": { "en": "Travel across Schengen", "ru": "Поездки по Шенгенской зоне", "lv": "Ceļošana Šengenas zonā" },
+          "text": { "en": "Travel freely within the Schengen area under the general rules.", "ru": "Свободные поездки по странам Шенгенской зоны по общим правилам.", "lv": "Brīva ceļošana Šengenas zonas valstīs saskaņā ar vispārējiem noteikumiem." }
+        },
+        {
+          "icon": "family",
+          "title": { "en": "Relocation with family", "ru": "Переезд вместе с семьей", "lv": "Pārcelšanās kopā ar ģimeni" },
+          "text": { "en": "Your spouse or partner and children can apply together with you.", "ru": "Супруг или партнер и дети могут оформить документы вместе с вами.", "lv": "Laulātais vai partneris un bērni var pieteikties kopā ar jums." }
+        },
+        {
+          "icon": "layers",
+          "title": { "en": "Option to renew", "ru": "Возможность продления", "lv": "Pagarināšanas iespēja" },
+          "text": { "en": "The permit can be renewed while the programme conditions are met.", "ru": "Статус можно продлевать при сохранении условий программы.", "lv": "Atļauju var pagarināt, ja programmas nosacījumi joprojām tiek izpildīti." }
+        },
+        {
+          "icon": "pin",
+          "title": { "en": "Apply abroad or in Spain", "ru": "Подача из-за рубежа или в Испании", "lv": "Pieteikšanās no ārvalstīm vai Spānijā" },
+          "text": { "en": "Apply through a consulate or, if staying legally, within Spain.", "ru": "Через консульство или в Испании при законном пребывании в стране.", "lv": "Caur konsulātu vai Spānijā, ja uzturaties valstī likumīgi." }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "chip": { "en": "Eligibility", "ru": "Условия", "lv": "Nosacījumi" },
+      "title": { "en": "Who the programme is for and what it requires", "ru": "Кому подходит программа и что требуется", "lv": "Kam programma der un kas nepieciešams" },
+      "lead": {
+        "en": "Every case is reviewed individually. The final list of requirements depends on your employment format and personal situation.",
+        "ru": "Каждая ситуация рассматривается индивидуально. Окончательный перечень требований зависит от формата вашей занятости и личных обстоятельств.",
+        "lv": "Katra situācija tiek izvērtēta individuāli. Galīgais prasību saraksts ir atkarīgs no jūsu nodarbinātības formas un personīgajiem apstākļiem."
+      },
+      "groups": [
+        {
+          "title": { "en": "Who the programme is for", "ru": "Кому подходит программа", "lv": "Kam programma ir piemērota" },
+          "items": [
+            { "en": "Remote employees of foreign companies", "ru": "Удаленным сотрудникам иностранных компаний", "lv": "Ārvalstu uzņēmumu attālinātajiem darbiniekiem" },
+            { "en": "Freelancers with international clients", "ru": "Фрилансерам с международными клиентами", "lv": "Ārštata speciālistiem ar starptautiskiem klientiem" },
+            { "en": "IT specialists and developers", "ru": "IT-специалистам и разработчикам", "lv": "IT speciālistiem un izstrādātājiem" },
+            { "en": "Designers, marketers and content creators", "ru": "Дизайнерам, маркетологам и создателям контента", "lv": "Dizaineriem, mārketinga speciālistiem un satura veidotājiem" },
+            { "en": "Consultants and analysts", "ru": "Консультантам и аналитикам", "lv": "Konsultantiem un analītiķiem" },
+            { "en": "Owners of businesses registered outside Spain", "ru": "Владельцам бизнеса, зарегистрированного за пределами Испании", "lv": "Ārpus Spānijas reģistrētu uzņēmumu īpašniekiem" }
+          ]
+        },
+        {
+          "title": { "en": "Main requirements", "ru": "Основные требования", "lv": "Galvenās prasības" },
+          "items": [
+            { "en": "Citizenship of a country outside the EU/EEA", "ru": "Гражданство страны вне ЕС/ЕЭЗ", "lv": "Valsts pilsonība ārpus ES/EEZ" },
+            { "en": "Remote work for companies located outside Spain", "ru": "Удаленная работа на компании за пределами Испании", "lv": "Attālināts darbs uzņēmumiem ārpus Spānijas" },
+            { "en": "Self-employed: Spanish clients within a limited share of activity", "ru": "Для самозанятых: работа с испанскими клиентами в ограниченной доле", "lv": "Pašnodarbinātajiem: darbs ar Spānijas klientiem ierobežotā apjomā" },
+            { "en": "An established working relationship with the employer or clients", "ru": "Сложившиеся рабочие отношения с работодателем или клиентами", "lv": "Izveidotas darba attiecības ar darba devēju vai klientiem" },
+            { "en": "A university degree or relevant professional experience", "ru": "Высшее образование или подтвержденный профессиональный опыт", "lv": "Augstākā izglītība vai atbilstoša profesionālā pieredze" },
+            { "en": "Income of at least 200% of the Spanish minimum wage", "ru": "Доход не ниже 200% минимальной заработной платы Испании", "lv": "Ienākumi vismaz 200% apmērā no Spānijas minimālās algas" },
+            { "en": "Full private health insurance in Spain", "ru": "Полная частная медицинская страховка в Испании", "lv": "Pilna privātā veselības apdrošināšana Spānijā" },
+            { "en": "No criminal record", "ru": "Отсутствие судимости", "lv": "Sodāmības neesamība" }
+          ],
+          "note": {
+            "en": "The minimum wage is updated annually, so the exact income amount is confirmed at consultation.",
+            "ru": "Минимальная заработная плата пересматривается ежегодно, поэтому точная сумма дохода уточняется на консультации.",
+            "lv": "Minimālā alga tiek pārskatīta katru gadu, tāpēc precīza ienākumu summa tiek precizēta konsultācijā."
+          }
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "chip": { "en": "Our support", "ru": "Сопровождение", "lv": "Mūsu atbalsts" },
+      "title": { "en": "What Amber Key support includes", "ru": "Что входит в сопровождение Amber Key", "lv": "Ko ietver Amber Key atbalsts" },
+      "lead": {
+        "en": "We support the client at every stage:",
+        "ru": "Мы сопровождаем клиента на каждом этапе:",
+        "lv": "Mēs pavadām klientu katrā posmā:"
+      },
+      "items": [
+        { "en": "Initial consultation", "ru": "Предварительная консультация", "lv": "Sākotnējā konsultācija" },
+        { "en": "Assessment of your employment format and income", "ru": "Анализ формата занятости и дохода", "lv": "Nodarbinātības formas un ienākumu izvērtēšana" },
+        { "en": "Choosing the route: consulate visa or permit in Spain", "ru": "Выбор пути: виза через консульство или ВНЖ в Испании", "lv": "Ceļa izvēle: vīza konsulātā vai atļauja Spānijā" },
+        { "en": "A personal document list", "ru": "Индивидуальный список документов", "lv": "Individuāls dokumentu saraksts" },
+        { "en": "Review of employer and client documents", "ru": "Проверка документов от работодателя и клиентов", "lv": "Darba devēja un klientu dokumentu pārbaude" },
+        { "en": "Preparation of the application package", "ru": "Подготовка пакета документов", "lv": "Pieteikuma dokumentu paketes sagatavošana" },
+        { "en": "Support with the application for family members", "ru": "Сопровождение оформления для членов семьи", "lv": "Atbalsts ģimenes locekļu pieteikumiem" },
+        { "en": "Support until a decision is issued", "ru": "Сопровождение до получения решения", "lv": "Atbalsts līdz lēmuma saņemšanai" }
+      ],
+      "image": "es-1",
+      "reverse": false
+    },
+    {
+      "type": "checklist",
+      "chip": { "en": "Documents", "ru": "Документы", "lv": "Dokumenti" },
+      "title": { "en": "Documents usually required", "ru": "Какие документы обычно необходимы", "lv": "Parasti nepieciešamie dokumenti" },
+      "lead": {
+        "en": "The final list is determined individually. As a rule, you will need:",
+        "ru": "Окончательный перечень определяется индивидуально. Как правило, требуются:",
+        "lv": "Galīgais saraksts tiek noteikts individuāli. Parasti nepieciešams:"
+      },
+      "items": [
+        { "en": "Valid passport", "ru": "Действующий паспорт", "lv": "Derīga pase" },
+        { "en": "Application form and photograph", "ru": "Анкета и фотография", "lv": "Pieteikuma veidlapa un fotogrāfija" },
+        { "en": "Employment contract or client agreements", "ru": "Трудовой договор или договоры с клиентами", "lv": "Darba līgums vai līgumi ar klientiem" },
+        { "en": "Employer letter permitting remote work from Spain", "ru": "Письмо работодателя о разрешении работать удаленно из Испании", "lv": "Darba devēja vēstule par atļauju strādāt attālināti no Spānijas" },
+        { "en": "Documents on the company's registration and activity", "ru": "Документы о регистрации и деятельности компании", "lv": "Dokumenti par uzņēmuma reģistrāciju un darbību" },
+        { "en": "Diploma or proof of professional experience", "ru": "Диплом или подтверждение профессионального опыта", "lv": "Diploms vai profesionālās pieredzes apliecinājums" },
+        { "en": "Proof of income or financial means", "ru": "Подтверждение дохода или финансовых средств", "lv": "Ienākumu vai finanšu līdzekļu apliecinājums" },
+        { "en": "Health insurance", "ru": "Медицинская страховка", "lv": "Veselības apdrošināšana" },
+        { "en": "Criminal record certificate", "ru": "Справка об отсутствии судимости", "lv": "Izziņa par sodāmības neesamību" },
+        { "en": "Other documents required by the programme", "ru": "Иные документы в соответствии с требованиями программы", "lv": "Citi programmas prasītie dokumenti" }
+      ],
+      "note": {
+        "en": "Before we start, we provide each client with a personal list of documents.",
+        "ru": "Перед началом работы мы предоставляем каждому клиенту индивидуальный список документов.",
+        "lv": "Pirms darba sākšanas mēs katram klientam sagatavojam individuālu dokumentu sarakstu."
+      },
+      "reverse": true
+    },
+    {
+      "type": "statement",
+      "chip": { "en": "Taxes and family", "ru": "Налоги и семья", "lv": "Nodokļi un ģimene" },
+      "title": { "en": "What is important to know in advance", "ru": "Что важно знать заранее", "lv": "Kas svarīgi zināt iepriekš" },
+      "paragraphs": [
+        {
+          "en": "Holders of the status can bring close family members to Spain. Each family member increases the required income level, so the family composition is taken into account from the very beginning.",
+          "ru": "Обладатели статуса могут оформить документы для близких членов семьи. Каждый член семьи увеличивает требуемый уровень дохода, поэтому состав семьи учитывается с самого начала подготовки.",
+          "lv": "Statusa turētāji var noformēt dokumentus tuviem ģimenes locekļiem. Katrs ģimenes loceklis palielina nepieciešamo ienākumu līmeni, tāpēc ģimenes sastāvs tiek ņemts vērā jau no paša sākuma."
+        },
+        {
+          "en": "Living in Spain may change your tax residence and social security obligations. In certain cases a special tax regime for people relocating to Spain may be available — whether it applies depends on your individual circumstances.",
+          "ru": "Проживание в Испании может повлиять на налоговое резидентство и обязательства по социальному страхованию. В отдельных случаях может быть доступен специальный налоговый режим для лиц, переезжающих в Испанию, — его применимость зависит от индивидуальных обстоятельств.",
+          "lv": "Dzīvošana Spānijā var ietekmēt nodokļu rezidenci un sociālās apdrošināšanas pienākumus. Atsevišķos gadījumos var būt pieejams īpašs nodokļu režīms personām, kas pārceļas uz Spāniju, — tā piemērojamība ir atkarīga no individuālajiem apstākļiem."
+        }
+      ],
+      "bullets": [
+        { "en": "Spouse or registered partner", "ru": "Супруг или зарегистрированный партнер", "lv": "Laulātais vai reģistrētais partneris" },
+        { "en": "Minor children", "ru": "Несовершеннолетние дети", "lv": "Nepilngadīgi bērni" },
+        { "en": "Financially dependent adult children", "ru": "Совершеннолетние дети на иждивении", "lv": "Apgādībā esoši pilngadīgi bērni" },
+        { "en": "Dependent parents", "ru": "Родители на иждивении", "lv": "Apgādībā esoši vecāki" }
+      ],
+      "highlight": {
+        "en": "Tax and social security matters should be assessed individually before relocation — we recommend planning them together with the application.",
+        "ru": "Налоговые вопросы и социальное страхование необходимо оценивать индивидуально до переезда — мы рекомендуем планировать их одновременно с подготовкой заявления.",
+        "lv": "Nodokļu un sociālās apdrošināšanas jautājumi jāizvērtē individuāli pirms pārcelšanās — iesakām tos plānot vienlaikus ar pieteikuma sagatavošanu."
+      }
+    },
+    {
+      "type": "grid",
+      "chip": { "en": "Why Amber Key", "ru": "Почему Amber Key", "lv": "Kāpēc Amber Key" },
+      "title": { "en": "Why choose Amber Key", "ru": "Почему выбирают Amber Key", "lv": "Kāpēc izvēlēties Amber Key" },
+      "items": [
+        {
+          "icon": "star",
+          "title": { "en": "8+ years of international experience", "ru": "Более 8 лет международного опыта", "lv": "Vairāk nekā 8 gadu starptautiskā pieredze" },
+          "text": { "en": "We support clients from different countries with relocation and immigration programmes.", "ru": "Мы сопровождаем клиентов из разных стран при переезде и оформлении иммиграционных программ.", "lv": "Pavadām klientus no dažādām valstīm pārcelšanās un imigrācijas programmu noformēšanā." }
+        },
+        {
+          "icon": "compass",
+          "title": { "en": "Individual strategy", "ru": "Индивидуальная стратегия", "lv": "Individuāla stratēģija" },
+          "text": { "en": "Every situation is unique, so the preparation strategy is developed individually.", "ru": "Каждая ситуация уникальна, поэтому стратегия подготовки разрабатывается индивидуально.", "lv": "Katra situācija ir unikāla, tāpēc sagatavošanas stratēģija tiek izstrādāta individuāli." }
+        },
+        {
+          "icon": "shield",
+          "title": { "en": "End-to-end support", "ru": "Комплексное сопровождение", "lv": "Pilns atbalsts" },
+          "text": { "en": "Support from the first consultation to the completion of the procedure.", "ru": "Поддержка от первой консультации до завершения процедуры оформления.", "lv": "Atbalsts no pirmās konsultācijas līdz procedūras pabeigšanai." }
+        },
+        {
+          "icon": "globe",
+          "title": { "en": "International expertise", "ru": "Международная экспертиза", "lv": "Starptautiskā ekspertīze" },
+          "text": { "en": "We work with various European programmes and help you choose the best option.", "ru": "Мы работаем с различными европейскими программами и помогаем выбрать наиболее подходящий вариант.", "lv": "Strādājam ar dažādām Eiropas programmām un palīdzam izvēlēties piemērotāko variantu." }
+        },
+        {
+          "icon": "scale",
+          "title": { "en": "Legality and transparency", "ru": "Законность и прозрачность", "lv": "Likumība un caurspīdīgums" },
+          "text": { "en": "All services are provided strictly in accordance with current legislation.", "ru": "Все услуги оказываются исключительно в соответствии с действующим законодательством.", "lv": "Visi pakalpojumi tiek sniegti tikai saskaņā ar spēkā esošajiem tiesību aktiem." }
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "chip": { "en": "How it works", "ru": "Как проходит оформление", "lv": "Kā notiek noformēšana" },
+      "title": { "en": "How the process works", "ru": "Как проходит оформление", "lv": "Kā notiek process" },
+      "image": "es-2",
+      "items": [
+        { "icon": "chat", "title": { "en": "Consultation", "ru": "Консультация", "lv": "Konsultācija" }, "text": { "en": "We study your situation and goals.", "ru": "Изучаем вашу ситуацию и цели.", "lv": "Izpētām jūsu situāciju un mērķus." } },
+        { "icon": "search", "title": { "en": "Eligibility check", "ru": "Оценка соответствия", "lv": "Atbilstības pārbaude" }, "text": { "en": "We assess your employment, income and experience.", "ru": "Оцениваем занятость, доход и опыт.", "lv": "Izvērtējam nodarbinātību, ienākumus un pieredzi." } },
+        { "icon": "document", "title": { "en": "Documents", "ru": "Подготовка документов", "lv": "Dokumenti" }, "text": { "en": "We help you collect the full package.", "ru": "Помогаем собрать полный пакет документов.", "lv": "Palīdzam savākt pilnu dokumentu paketi." } },
+        { "icon": "flag", "title": { "en": "Application", "ru": "Подача заявления", "lv": "Pieteikums" }, "text": { "en": "We support the submission at the consulate or in Spain.", "ru": "Сопровождаем подачу в консульстве или в Испании.", "lv": "Pavadām iesniegšanu konsulātā vai Spānijā." } },
+        { "icon": "clock", "title": { "en": "Review", "ru": "Рассмотрение заявки", "lv": "Izskatīšana" }, "text": { "en": "We monitor the review of your documents.", "ru": "Контролируем рассмотрение документов.", "lv": "Uzraugām dokumentu izskatīšanu." } },
+        { "icon": "key", "title": { "en": "Result", "ru": "Получение решения", "lv": "Rezultāts" }, "text": { "en": "We advise on residence and renewal afterwards.", "ru": "Консультируем по проживанию и продлению статуса.", "lv": "Konsultējam par uzturēšanos un statusa pagarināšanu." } }
+      ],
+      "cta": { "label": { "en": "Book a consultation", "ru": "Записаться на консультацию", "lv": "Pieteikties konsultācijai" }, "href": "contact/" }
+    },
+    {
+      "type": "cta",
+      "title": { "en": "Get a personal consultation", "ru": "Получите персональную консультацию", "lv": "Saņemiet personīgu konsultāciju" },
+      "text": {
+        "en": "If you plan to work remotely from Spain, Amber Key specialists will assess your situation, prepare the necessary documents and provide end-to-end support at every stage of the Digital Nomad Visa process.",
+        "ru": "Если вы планируете работать удаленно из Испании, специалисты Amber Key помогут оценить вашу ситуацию, подготовить необходимые документы и обеспечат комплексное сопровождение на всех этапах оформления Digital Nomad Visa.",
+        "lv": "Ja plānojat strādāt attālināti no Spānijas, Amber Key speciālisti izvērtēs jūsu situāciju, sagatavos nepieciešamos dokumentus un nodrošinās pilnu atbalstu visos Digital Nomad vīzas noformēšanas posmos."
+      },
+      "button": { "en": "Get a personal consultation", "ru": "Получить персональную консультацию", "lv": "Saņemt personīgu konsultāciju" }
+    }
+  ]
+}
